@@ -1,14 +1,16 @@
 
-
+#reading points from file
 pathfile1 = "map_points.txt"
 with open(pathfile1, "r") as file1:
-    data = file1.readlines()
+    point_coordinates = file1.readlines()
 
-points = [[] for i in range(len(data))]
-print(points)
-#for i in range(len(data)):
+#converting points to list and to int
+for i in range(len(point_coordinates)):
+    point_coordinates[i] = point_coordinates[i].rstrip()
+    point_coordinates[i] = point_coordinates[i].split(";")
+    point_coordinates[i][0] = int(point_coordinates[i][0])
+    point_coordinates[i][1] = int(point_coordinates[i][1])
 
-for i in range(len(data)):
-    data[i] = data[i].split()
-print(data)
+print(point_coordinates)
+
 file1.close()
