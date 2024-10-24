@@ -24,23 +24,26 @@ for i in range(1,len(point_coordinates)):
 # measuring time of execution
 start_time = time.time()
 
-path = "0"
+path = "0 -> "
 length = 0
 current_point = point_coordinates[0]
 point_coordinates.pop(0)
 
 for i in range(len(point_coordinates)):
-    min_distance = 1000000
-    for point in point_coordinates:
-        if distance(current_point,point) < min_distance:
-            min_distance = distance(current_point,point)
-            next_point = point
-    path += " -> " + str(next_point[0])
+    min_distance = distance(current_point,point_coordinates[0])
+    next_point = point_coordinates[0]
+    for j in range(1,len(point_coordinates)):
+        if distance(current_point,point_coordinates[j]) < min_distance:
+            min_distance = distance(current_point,point_coordinates[j])
+            next_point = point_coordinates[j]
+    path += str(next_point[0]) + " -> "
     length += distance(current_point,next_point)
     current_point = next_point
     point_coordinates.remove(current_point)
 
 length += distance(current_point,[0,0,0])
+
+path += "0"
 
 finish_time = time.time() - start_time
 
