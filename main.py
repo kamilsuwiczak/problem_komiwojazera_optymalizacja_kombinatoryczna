@@ -1,4 +1,6 @@
 import time
+import matplotlib.pyplot as plt
+
 def distance(p1,p2):
     return ((p1[2]-p2[2])**2 + (p1[1]-p2[1])**2)**0.5
 
@@ -29,6 +31,10 @@ length = 0
 current_point = point_coordinates[0]
 point_coordinates.pop(0)
 
+# arrays for plot
+x=[0]
+y = [0]
+
 for i in range(len(point_coordinates)):
     min_distance = distance(current_point,point_coordinates[0])
     next_point = point_coordinates[0]
@@ -36,6 +42,9 @@ for i in range(len(point_coordinates)):
         if distance(current_point,point_coordinates[j]) < min_distance:
             min_distance = distance(current_point,point_coordinates[j])
             next_point = point_coordinates[j]
+    x.append(next_point[1])
+    y.append(next_point[2])
+
     path += str(next_point[0]) + " -> "
     length += distance(current_point,next_point)
     current_point = next_point
@@ -43,9 +52,13 @@ for i in range(len(point_coordinates)):
 
 length += distance(current_point,[0,0,0])
 
+
 path += "0"
 
 finish_time = time.time() - start_time
+
+plt.plot(x,y, 'o-')
+plt.show()
 
 print("Ścieżka: " + path)
 print("Długość ścieżki: " + str(length))
