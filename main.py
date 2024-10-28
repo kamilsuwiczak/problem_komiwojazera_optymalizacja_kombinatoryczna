@@ -10,13 +10,12 @@ def main():
     pathfile = "data/test.txt"
 
     with open(pathfile, "r") as file:
+        file.readline()
         point_coordinates = file.readlines()
     file.close()
 
-    point_coordinates[0]=[0,0,0]
-
     #converting points to list and to int
-    for i in range(1,len(point_coordinates)):
+    for i in range(len(point_coordinates)):
         point_coordinates[i] = point_coordinates[i].rstrip()
         point_coordinates[i] = point_coordinates[i].split(" ")
         point_coordinates[i][0] = int(point_coordinates[i][0])
@@ -28,14 +27,16 @@ def main():
     # start measuring time of execution
     start_time = time.time()
 
-    path = "0 -> "
+
+    path = "1 -> "
     length = 0
     current_point = point_coordinates[0]
+    start_point = current_point
     point_coordinates.pop(0)
 
     # arrays for plot
-    x=[0]
-    y = [0]
+    x = [current_point[1]]
+    y = [current_point[2]]
 
     # main core of the program
     for i in range(len(point_coordinates)):
@@ -54,8 +55,8 @@ def main():
         current_point = next_point
         point_coordinates.remove(current_point)
 
-    length += distance(current_point,[0,0,0])
-    path += "0"
+    length += distance(current_point,start_point)
+    path += "1"
 
     # end of measuring time
     finish_time = time.time() - start_time
@@ -65,8 +66,8 @@ def main():
     print("Czas działania programu: " + str(finish_time))
 
     # adding coming back to starting point to plot 
-    x.append(0)
-    y.append(0) 
+    x.append(start_point[1])
+    y.append(start_point[2]) 
 
     # making plot 
     plt.plot(x,y, '-o')
