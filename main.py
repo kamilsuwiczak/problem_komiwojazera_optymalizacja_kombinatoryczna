@@ -6,7 +6,7 @@ def distance(p1,p2):
     return ((p1[2]-p2[2])**2 + (p1[1]-p2[1])**2)**0.5
 
 # reading points from file
-pathfile = "test.txt"
+pathfile = "data/test.txt"
 
 with open(pathfile, "r") as file:
     point_coordinates = file.readlines()
