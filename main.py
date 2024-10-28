@@ -57,10 +57,10 @@ path += "0"
 
 finish_time = time.time() - start_time
 
-plt.plot(x,y, 'o-')
-plt.show()
 
 print("Ścieżka: " + path)
 print("Długość ścieżki: " + str(length))
 print("Czas działania programu: " + str(finish_time))
 
+plt.plot(x,y, '-o')
+plt.show()
