@@ -80,10 +80,13 @@ def main():
     length_by_nearest_neighbour =  round(greedy_algorithm(point_coordinates),2)
     
     x = round(1/(number_of_cities*length_by_nearest_neighbour),10)
-    pheromone_strength =[[],[]]
-    for i in pheromone_strength:
-        for j in pheromone_strength:
-            pheromone_strength[[i][j]] = x
+    pheromone_strength =[]
+    for i in range(number_of_cities):
+        pheromone_strength.append([])
+        for _ in range(number_of_cities):
+            pheromone_strength[i].append(x)
+    print(pheromone_strength)
+    
     print(pheromone_strength)
     # print(length_by_nearest_neighbour)
 
