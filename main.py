@@ -5,14 +5,16 @@ import matplotlib.pyplot as plt
 def distance(p1,p2):
     return ((p1[2]-p2[2])**2 + (p1[1]-p2[1])**2)**0.5
 
-def main():
+def import_data(pathfile):
     # reading points from file
-    pathfile = "data/test.txt"
-
     with open(pathfile, "r") as file:
         file.readline()
         point_coordinates = file.readlines()
+        return point_coordinates
     file.close()
+
+def main():
+    point_coordinates = import_data("data/test.txt")
 
     #converting points to list and to int
     for i in range(len(point_coordinates)):
