@@ -24,8 +24,6 @@ def main():
         point_coordinates[i][1] = int(point_coordinates[i][1])
         point_coordinates[i][2] = int(point_coordinates[i][2])
 
-    # print(point_coordinates)
-
     # start measuring time of execution
     start_time = time.time()
 
@@ -74,6 +72,8 @@ def main():
     # making plot 
     plt.plot(x,y, '-o')
     plt.show()
+
+   
 
 if __name__ == "__main__":
     main()
