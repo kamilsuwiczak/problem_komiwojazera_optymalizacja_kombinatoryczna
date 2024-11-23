@@ -1,4 +1,6 @@
 import numpy as np
+import matplotlib.pyplot as plt
+import time
 
 def import_data(filepath):
     with open(filepath, "r") as file:
@@ -14,11 +16,11 @@ def import_data(filepath):
         return point_coordinates
     file.close()
 
-# Funkcja obliczająca odległość między dwoma punktami
+# funcion returning distance between two points
 def distance(p1, p2):
     return np.sqrt((p1[1] - p2[1]) ** 2 + (p1[2] - p2[2]) ** 2)
 
-# Macierz odległości
+# matrix of distances between points
 def generate_distance_matrix(points):
     n = len(points)
     distance_matrix = np.zeros([n, n])
@@ -27,10 +29,10 @@ def generate_distance_matrix(points):
             distance_matrix[i][j] = distance(points[i], points[j])
     return distance_matrix
 
-# Parametry ACO
-def ant_colony_optimization(points, num_ants=10, num_iterations=100, alpha=1, beta=2, evaporation_rate=0.5, pheromone_init=1):
+# Ant Colony Optimization
+def ant_colony_optimization(points, num_ants, num_iterations, alpha, beta, evaporation_rate, pheromone_init):
     n_points = len(points)
-    dist_matrix = generate_distance_matrix(points)
+    distance_matrix = generate_distance_matrix(points)
     
     # Początkowy poziom feromonów
     pheromones = np.ones([n_points, n_points]) * pheromone_init
@@ -43,17 +45,17 @@ def ant_colony_optimization(points, num_ants=10, num_iterations=100, alpha=1, be
         
         for _ in range(num_ants):
             path = []
-            visited = set()
+            visited = list()
             current = np.random.randint(n_points)
             path.append(current)
-            visited.add(current)
+            visited.append(current)
             
             while len(path) < n_points:
                 probabilities = []
                 for i in range(n_points):
                     if i not in visited:
                         tau = pheromones[current][i] ** alpha
-                        eta = (1 / dist_matrix[current][i]) ** beta
+                        eta = (1 / distance_matrix[current][i]) ** beta
                         probabilities.append(tau * eta)
                     else:
                         probabilities.append(0)
@@ -62,12 +64,12 @@ def ant_colony_optimization(points, num_ants=10, num_iterations=100, alpha=1, be
                 probabilities /= probabilities.sum()
                 next_node = np.random.choice(range(n_points), p=probabilities)
                 path.append(next_node)
-                visited.add(next_node)
+                visited.append(next_node)
                 current = next_node
             
             # Powrót do punktu startowego
             path.append(path[0])
-            distance = sum(dist_matrix[path[i]][path[i + 1]] for i in range(len(path) - 1))
+            distance = sum(distance_matrix[path[i]][path[i + 1]] for i in range(len(path) - 1))
             all_paths.append(path)
             all_distances.append(distance)
         
@@ -83,20 +85,42 @@ def ant_colony_optimization(points, num_ants=10, num_iterations=100, alpha=1, be
             for j in range(len(path) - 1):
                 pheromones[path[j]][path[j + 1]] += 1 / all_distances[i]
     
+    for i in range(len(best_path)):
+        best_path[i] = best_path[i] + 1
+        
     return best_path, best_distance
 
+# plotting the best path
+def aco_visualisation(best_path, points):
+    x=[]
+    y=[]
+    for i in best_path:
+        x.append(points[i-1][1])
+        y.append(points[i-1][2])
+    
+    plt.plot(x, y, '-o')
+    plt.title("ACO")
+    plt.show()
 
 def main():
-    # Dane wejściowe
-    points = import_data("data/test.txt")
+    start_time = time.time()
+    points = import_data("data/dane_100.txt")
     
+    results =[]
+    for _ in range(1):
+        best_path, best_distance = ant_colony_optimization(points, num_ants=10, num_iterations=100, alpha=1, beta=2, evaporation_rate=0.5, pheromone_init=1)
+        results.append([best_path, best_distance])
+    results.sort(key=lambda x: x[1])
 
-    #]Uruchomienie ACO
-    best_path, best_distance = ant_colony_optimization(points)
+    finish_time = time.time() - start_time 
 
-    # Wynik
-    print("Najlepsza trasa:", best_path)
-    print("Najkrótsza odległość:", best_distance)
+    print("Najlepsza trasa:", results[0][0])
+    print("Najkrótsza odległość:", results[0][1])
+    print("Czas działania programu:", finish_time)
+    for i in range(len(results)):
+        print(results[i][1])
+
+    aco_visualisation(results[0][0], points)
 
 if __name__ == "__main__":  
     main()
