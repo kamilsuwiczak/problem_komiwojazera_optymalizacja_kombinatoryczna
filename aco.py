@@ -34,7 +34,6 @@ def ant_colony_optimization(points, num_ants, num_iterations, alpha, beta, evapo
     n_points = len(points)
     distance_matrix = generate_distance_matrix(points)
     
-    # Początkowy poziom feromonów
     pheromones = np.ones([n_points, n_points]) * pheromone_init
     best_distance = float('inf')
     best_path = None
@@ -67,19 +66,18 @@ def ant_colony_optimization(points, num_ants, num_iterations, alpha, beta, evapo
                 visited.append(next_node)
                 current = next_node
             
-            # Powrót do punktu startowego
             path.append(path[0])
             distance = sum(distance_matrix[path[i]][path[i + 1]] for i in range(len(path) - 1))
             all_paths.append(path)
             all_distances.append(distance)
         
-        # Aktualizacja najlepszej ścieżki
+        # update best path
         for i, distance in enumerate(all_distances):
             if distance < best_distance:
                 best_distance = distance
                 best_path = all_paths[i]
         
-        # Aktualizacja feromonów
+        # update pheromones
         pheromones *= (1 - evaporation_rate)
         for i, path in enumerate(all_paths):
             for j in range(len(path) - 1):
