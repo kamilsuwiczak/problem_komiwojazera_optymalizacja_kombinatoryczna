@@ -42,10 +42,11 @@ def ant_colony_optimization(points, num_ants, num_iterations, alpha, beta, evapo
         all_paths = []
         all_distances = []
         
-        for _ in range(num_ants):
+        for i in range(num_ants):
             path = []
             visited = list()
-            current = np.random.randint(n_points)
+            current = 0
+            # current = np.random.randint(n_points)
             path.append(current)
             visited.append(current)
             
@@ -106,7 +107,7 @@ def main():
     
     results =[]
     for _ in range(1):
-        best_path, best_distance = ant_colony_optimization(points, num_ants=10, num_iterations=10, alpha=1, beta=15, evaporation_rate=0.5, pheromone_init=1)
+        best_path, best_distance = ant_colony_optimization(points, num_ants=10, num_iterations=100, alpha=1, beta=15, evaporation_rate=0.5, pheromone_init=1)
         results.append([best_path, best_distance])
     results.sort(key=lambda x: x[1])
 
