@@ -102,11 +102,11 @@ def aco_visualisation(best_path, points):
 
 def main():
     start_time = time.time()
-    points = import_data("data/dane_100.txt")
+    points = import_data("data/dane_500.txt")
     
     results =[]
     for _ in range(1):
-        best_path, best_distance = ant_colony_optimization(points, num_ants=10, num_iterations=100, alpha=1, beta=2, evaporation_rate=0.5, pheromone_init=1)
+        best_path, best_distance = ant_colony_optimization(points, num_ants=10, num_iterations=10, alpha=1, beta=15, evaporation_rate=0.5, pheromone_init=1)
         results.append([best_path, best_distance])
     results.sort(key=lambda x: x[1])
 
