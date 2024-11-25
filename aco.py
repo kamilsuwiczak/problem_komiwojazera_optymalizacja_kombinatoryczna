@@ -102,7 +102,7 @@ def aco_visualisation(best_path, points):
 
 def main():
     start_time = time.time()
-    points = import_data("data/dane_500.txt")
+    points = import_data("data/dane_25.txt")
     
     results =[]
     for _ in range(1):

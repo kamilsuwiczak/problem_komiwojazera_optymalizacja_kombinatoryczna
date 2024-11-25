@@ -8,6 +8,7 @@ def distance(p1,p2):
 # reading points from file
 pathfile = "data/dane_100.txt"
 
+
 with open(pathfile, "r") as file:
     point_coordinates = file.readlines()
 file.close()
