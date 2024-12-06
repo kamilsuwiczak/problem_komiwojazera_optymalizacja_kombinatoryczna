@@ -31,6 +31,7 @@ def generate_distance_matrix(points):
 
 # Ant Colony Optimization
 def ant_colony_optimization(points, num_ants, num_iterations, alpha, beta, evaporation_rate, pheromone_init):
+    start_time = time.time()
     n_points = len(points)
     distance_matrix = generate_distance_matrix(points)
     
@@ -66,7 +67,8 @@ def ant_colony_optimization(points, num_ants, num_iterations, alpha, beta, evapo
                 path.append(next_node)
                 visited.append(next_node)
                 current = next_node
-            
+                if (time.time()- start_time )> 180:
+                    return best_path, best_distance
             path.append(path[0])
             distance = sum(distance_matrix[path[i]][path[i + 1]] for i in range(len(path) - 1))
             all_paths.append(path)
@@ -103,11 +105,11 @@ def aco_visualisation(best_path, points):
 
 def main():
     start_time = time.time()
-    points = import_data("data/dane_25.txt")
+    points = import_data("data/data_mmachowiak/bier127.txt")
     
     results =[]
     for _ in range(1):
-        best_path, best_distance = ant_colony_optimization(points, num_ants=10, num_iterations=100, alpha=1, beta=15, evaporation_rate=0.5, pheromone_init=1)
+        best_path, best_distance = ant_colony_optimization(points, num_ants=10, num_iterations=100, alpha=1, beta=15, evaporation_rate=0.1, pheromone_init=1)
         results.append([best_path, best_distance])
     results.sort(key=lambda x: x[1])
 
