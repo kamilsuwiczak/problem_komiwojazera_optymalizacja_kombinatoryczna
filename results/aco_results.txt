@@ -1,0 +1,1601 @@
+file: berlin52.txt
+alpha: 1, beta: 1, evaporation_rate: 0.1,  best_distance: 12501.729566494236, time: 5.941709518432617
+alpha: 1, beta: 1, evaporation_rate: 0.1,  best_distance: 11966.311228607065, time: 6.726636171340942
+alpha: 1, beta: 1, evaporation_rate: 0.1,  best_distance: 12398.144841434254, time: 5.699251651763916
+
+alpha: 1, beta: 2, evaporation_rate: 0.1,  best_distance: 8934.54395765155, time: 5.31852126121521
+alpha: 1, beta: 2, evaporation_rate: 0.1,  best_distance: 9318.589107642709, time: 5.513264179229736
+alpha: 1, beta: 2, evaporation_rate: 0.1,  best_distance: 8737.005888317823, time: 5.956262826919556
+
+alpha: 1, beta: 3, evaporation_rate: 0.1,  best_distance: 8408.585458501517, time: 6.502722978591919
+alpha: 1, beta: 3, evaporation_rate: 0.1,  best_distance: 8583.041638097997, time: 5.1095969676971436
+alpha: 1, beta: 3, evaporation_rate: 0.1,  best_distance: 8759.604729188844, time: 5.018505811691284
+
+alpha: 1, beta: 4, evaporation_rate: 0.1,  best_distance: 8467.256136140513, time: 5.126565217971802
+alpha: 1, beta: 4, evaporation_rate: 0.1,  best_distance: 8402.2009450499, time: 5.012453317642212
+alpha: 1, beta: 4, evaporation_rate: 0.1,  best_distance: 8402.440164824655, time: 4.941707134246826
+
+alpha: 1, beta: 5, evaporation_rate: 0.1,  best_distance: 8329.647420279876, time: 5.264037609100342
+alpha: 1, beta: 5, evaporation_rate: 0.1,  best_distance: 8197.142871234004, time: 4.9828057289123535
+alpha: 1, beta: 5, evaporation_rate: 0.1,  best_distance: 8461.970155923651, time: 4.937648057937622
+
+alpha: 1, beta: 6, evaporation_rate: 0.1,  best_distance: 8549.112590883038, time: 5.116722583770752
+alpha: 1, beta: 6, evaporation_rate: 0.1,  best_distance: 8397.260816549328, time: 4.984720468521118
+alpha: 1, beta: 6, evaporation_rate: 0.1,  best_distance: 8300.545574731483, time: 4.986795663833618
+
+alpha: 1, beta: 7, evaporation_rate: 0.1,  best_distance: 8294.163942349443, time: 5.141633987426758
+alpha: 1, beta: 7, evaporation_rate: 0.1,  best_distance: 8273.163383529774, time: 4.987406492233276
+alpha: 1, beta: 7, evaporation_rate: 0.1,  best_distance: 8402.010647733345, time: 4.970017910003662
+
+alpha: 1, beta: 8, evaporation_rate: 0.1,  best_distance: 8110.593067027547, time: 5.092927694320679
+alpha: 1, beta: 8, evaporation_rate: 0.1,  best_distance: 8085.053405731603, time: 5.170953750610352
+alpha: 1, beta: 8, evaporation_rate: 0.1,  best_distance: 8296.877020569458, time: 4.9481823444366455
+
+alpha: 1, beta: 9, evaporation_rate: 0.1,  best_distance: 8160.076494760694, time: 5.140503883361816
+alpha: 1, beta: 9, evaporation_rate: 0.1,  best_distance: 8345.700674349482, time: 5.512122392654419
+alpha: 1, beta: 9, evaporation_rate: 0.1,  best_distance: 8270.47980724876, time: 5.844194650650024
+
+alpha: 1, beta: 10, evaporation_rate: 0.1,  best_distance: 8020.4661315589565, time: 5.14854621887207
+alpha: 1, beta: 10, evaporation_rate: 0.1,  best_distance: 8091.341370911391, time: 4.969884872436523
+alpha: 1, beta: 10, evaporation_rate: 0.1,  best_distance: 8220.902043071004, time: 5.93882942199707
+
+alpha: 1, beta: 11, evaporation_rate: 0.1,  best_distance: 8099.848263865099, time: 5.224113702774048
+alpha: 1, beta: 11, evaporation_rate: 0.1,  best_distance: 8126.6200520885195, time: 5.066654443740845
+alpha: 1, beta: 11, evaporation_rate: 0.1,  best_distance: 7914.721137407367, time: 4.97148323059082
+
+alpha: 1, beta: 12, evaporation_rate: 0.1,  best_distance: 8155.852002100779, time: 5.12267279624939
+alpha: 1, beta: 12, evaporation_rate: 0.1,  best_distance: 8142.955406308756, time: 4.9755988121032715
+alpha: 1, beta: 12, evaporation_rate: 0.1,  best_distance: 8133.035984131764, time: 4.969561815261841
+
+alpha: 1, beta: 13, evaporation_rate: 0.1,  best_distance: 8546.89924784609, time: 5.098753213882446
+alpha: 1, beta: 13, evaporation_rate: 0.1,  best_distance: 8142.216749302395, time: 5.004053831100464
+alpha: 1, beta: 13, evaporation_rate: 0.1,  best_distance: 8159.4474257205675, time: 4.98624324798584
+
+alpha: 1, beta: 14, evaporation_rate: 0.1,  best_distance: 8171.484651859295, time: 5.1483542919158936
+alpha: 1, beta: 14, evaporation_rate: 0.1,  best_distance: 8411.935751952673, time: 5.0094897747039795
+alpha: 1, beta: 14, evaporation_rate: 0.1,  best_distance: 7972.529738614938, time: 5.121678590774536
+
+alpha: 1, beta: 15, evaporation_rate: 0.1,  best_distance: 8150.02447658063, time: 5.138421535491943
+alpha: 1, beta: 15, evaporation_rate: 0.1,  best_distance: 8239.64464428887, time: 4.9632933139801025
+alpha: 1, beta: 15, evaporation_rate: 0.1,  best_distance: 8203.561872683751, time: 4.940751075744629
+
+alpha: 1, beta: 16, evaporation_rate: 0.1,  best_distance: 8521.06661714989, time: 5.110367298126221
+alpha: 1, beta: 16, evaporation_rate: 0.1,  best_distance: 8096.8680019161775, time: 5.042813539505005
+alpha: 1, beta: 16, evaporation_rate: 0.1,  best_distance: 8075.504831763552, time: 5.133008718490601
+
+alpha: 1, beta: 17, evaporation_rate: 0.1,  best_distance: 8173.494952541345, time: 5.303918123245239
+alpha: 1, beta: 17, evaporation_rate: 0.1,  best_distance: 8659.999565954708, time: 5.1486124992370605
+alpha: 1, beta: 17, evaporation_rate: 0.1,  best_distance: 8571.09195880319, time: 5.179592609405518
+
+alpha: 1, beta: 18, evaporation_rate: 0.1,  best_distance: 8324.822517346412, time: 5.4182257652282715
+alpha: 1, beta: 18, evaporation_rate: 0.1,  best_distance: 8101.542858222559, time: 5.175964593887329
+alpha: 1, beta: 18, evaporation_rate: 0.1,  best_distance: 8619.75408411175, time: 5.144753932952881
+
+alpha: 1, beta: 19, evaporation_rate: 0.1,  best_distance: 8598.471501196798, time: 5.371501922607422
+alpha: 1, beta: 19, evaporation_rate: 0.1,  best_distance: 8645.820075798982, time: 5.160937547683716
+alpha: 1, beta: 19, evaporation_rate: 0.1,  best_distance: 8659.999565954708, time: 5.118426084518433
+
+alpha: 1, beta: 20, evaporation_rate: 0.1,  best_distance: 8659.999565954708, time: 5.300679922103882
+alpha: 1, beta: 20, evaporation_rate: 0.1,  best_distance: 8659.999565954708, time: 5.162067890167236
+alpha: 1, beta: 20, evaporation_rate: 0.1,  best_distance: 8634.977219569766, time: 5.12991189956665
+
+alpha: 2, beta: 1, evaporation_rate: 0.1,  best_distance: 8958.275583403327, time: 5.257867097854614
+alpha: 2, beta: 1, evaporation_rate: 0.1,  best_distance: 9260.66052991738, time: 5.145108938217163
+alpha: 2, beta: 1, evaporation_rate: 0.1,  best_distance: 8425.448950115231, time: 5.127843618392944
+
+alpha: 2, beta: 2, evaporation_rate: 0.1,  best_distance: 8484.140324669323, time: 5.480951309204102
+alpha: 2, beta: 2, evaporation_rate: 0.1,  best_distance: 8388.783607541527, time: 5.205431699752808
+alpha: 2, beta: 2, evaporation_rate: 0.1,  best_distance: 8082.13784440703, time: 5.145751714706421
+
+alpha: 2, beta: 3, evaporation_rate: 0.1,  best_distance: 8935.532965868357, time: 5.325627565383911
+alpha: 2, beta: 3, evaporation_rate: 0.1,  best_distance: 8658.350367561034, time: 5.182060956954956
+alpha: 2, beta: 3, evaporation_rate: 0.1,  best_distance: 8458.137338751707, time: 5.149373531341553
+
+alpha: 2, beta: 4, evaporation_rate: 0.1,  best_distance: 8385.63675520039, time: 5.303274393081665
+alpha: 2, beta: 4, evaporation_rate: 0.1,  best_distance: 8497.491799858788, time: 5.165824890136719
+alpha: 2, beta: 4, evaporation_rate: 0.1,  best_distance: 8117.967988075134, time: 5.132623910903931
+
+alpha: 2, beta: 5, evaporation_rate: 0.1,  best_distance: 8264.220222873417, time: 5.294815540313721
+alpha: 2, beta: 5, evaporation_rate: 0.1,  best_distance: 8355.741091554846, time: 5.581620931625366
+alpha: 2, beta: 5, evaporation_rate: 0.1,  best_distance: 8398.956753097118, time: 5.126698970794678
+
+alpha: 2, beta: 6, evaporation_rate: 0.1,  best_distance: 8336.057305353284, time: 5.782223224639893
+alpha: 2, beta: 6, evaporation_rate: 0.1,  best_distance: 8138.356982180739, time: 5.154335975646973
+alpha: 2, beta: 6, evaporation_rate: 0.1,  best_distance: 8384.016664979114, time: 5.146282196044922
+
+alpha: 2, beta: 7, evaporation_rate: 0.1,  best_distance: 8163.150888306551, time: 5.301732063293457
+alpha: 2, beta: 7, evaporation_rate: 0.1,  best_distance: 8269.692122283024, time: 5.189418077468872
+alpha: 2, beta: 7, evaporation_rate: 0.1,  best_distance: 8368.505616527957, time: 5.128774642944336
+
+alpha: 2, beta: 8, evaporation_rate: 0.1,  best_distance: 8077.795503549321, time: 5.371307134628296
+alpha: 2, beta: 8, evaporation_rate: 0.1,  best_distance: 8203.455478043987, time: 5.4574151039123535
+alpha: 2, beta: 8, evaporation_rate: 0.1,  best_distance: 8371.91632971561, time: 5.128446578979492
+
+alpha: 2, beta: 9, evaporation_rate: 0.1,  best_distance: 8078.820822615404, time: 5.323601484298706
+alpha: 2, beta: 9, evaporation_rate: 0.1,  best_distance: 8403.332915918802, time: 5.161386728286743
+alpha: 2, beta: 9, evaporation_rate: 0.1,  best_distance: 8305.094391777948, time: 5.150677919387817
+
+alpha: 2, beta: 10, evaporation_rate: 0.1,  best_distance: 8257.366573824604, time: 5.411504030227661
+alpha: 2, beta: 10, evaporation_rate: 0.1,  best_distance: 8170.145095799275, time: 5.165477991104126
+alpha: 2, beta: 10, evaporation_rate: 0.1,  best_distance: 8191.265739396855, time: 5.132521390914917
+
+alpha: 2, beta: 11, evaporation_rate: 0.1,  best_distance: 8421.373560283531, time: 5.297495365142822
+alpha: 2, beta: 11, evaporation_rate: 0.1,  best_distance: 8092.252960015658, time: 5.168717622756958
+alpha: 2, beta: 11, evaporation_rate: 0.1,  best_distance: 8171.484651859295, time: 5.133856773376465
+
+alpha: 2, beta: 12, evaporation_rate: 0.1,  best_distance: 8467.796062564603, time: 5.300124168395996
+alpha: 2, beta: 12, evaporation_rate: 0.1,  best_distance: 8400.900478784893, time: 5.135286808013916
+alpha: 2, beta: 12, evaporation_rate: 0.1,  best_distance: 8547.719542173676, time: 5.150686502456665
+
+alpha: 2, beta: 13, evaporation_rate: 0.1,  best_distance: 8169.106961221311, time: 5.432809829711914
+alpha: 2, beta: 13, evaporation_rate: 0.1,  best_distance: 8173.708904272003, time: 5.204555034637451
+alpha: 2, beta: 13, evaporation_rate: 0.1,  best_distance: 8367.046947341069, time: 5.178572416305542
+
+alpha: 2, beta: 14, evaporation_rate: 0.1,  best_distance: 8042.505909348275, time: 5.307037115097046
+alpha: 2, beta: 14, evaporation_rate: 0.1,  best_distance: 8185.962234965389, time: 5.19545841217041
+alpha: 2, beta: 14, evaporation_rate: 0.1,  best_distance: 8460.252572222826, time: 5.147656679153442
+
+alpha: 2, beta: 15, evaporation_rate: 0.1,  best_distance: 8510.695968766722, time: 5.301551818847656
+alpha: 2, beta: 15, evaporation_rate: 0.1,  best_distance: 8443.989846974659, time: 5.14409613609314
+alpha: 2, beta: 15, evaporation_rate: 0.1,  best_distance: 8215.547990025732, time: 5.1750829219818115
+
+alpha: 2, beta: 16, evaporation_rate: 0.1,  best_distance: 8633.459991746338, time: 5.33774209022522
+alpha: 2, beta: 16, evaporation_rate: 0.1,  best_distance: 8173.494952541345, time: 5.160647630691528
+alpha: 2, beta: 16, evaporation_rate: 0.1,  best_distance: 8634.977219569766, time: 5.113196611404419
+
+alpha: 2, beta: 17, evaporation_rate: 0.1,  best_distance: 8545.76497154108, time: 5.3347907066345215
+alpha: 2, beta: 17, evaporation_rate: 0.1,  best_distance: 8475.81411935509, time: 5.152640104293823
+alpha: 2, beta: 17, evaporation_rate: 0.1,  best_distance: 8599.015871106625, time: 5.164947271347046
+
+alpha: 2, beta: 18, evaporation_rate: 0.1,  best_distance: 8521.362926497433, time: 5.315786600112915
+alpha: 2, beta: 18, evaporation_rate: 0.1,  best_distance: 8191.21277742776, time: 5.246516227722168
+alpha: 2, beta: 18, evaporation_rate: 0.1,  best_distance: 8329.219044602885, time: 5.1455934047698975
+
+alpha: 2, beta: 19, evaporation_rate: 0.1,  best_distance: 8689.553077828394, time: 5.287555932998657
+alpha: 2, beta: 19, evaporation_rate: 0.1,  best_distance: 8510.992278114265, time: 5.18013858795166
+alpha: 2, beta: 19, evaporation_rate: 0.1,  best_distance: 8629.947469153529, time: 5.1665120124816895
+
+alpha: 2, beta: 20, evaporation_rate: 0.1,  best_distance: 8659.999565954708, time: 5.296583890914917
+alpha: 2, beta: 20, evaporation_rate: 0.1,  best_distance: 8739.068714881638, time: 5.148954629898071
+alpha: 2, beta: 20, evaporation_rate: 0.1,  best_distance: 8298.942373243917, time: 5.134037733078003
+
+alpha: 3, beta: 1, evaporation_rate: 0.1,  best_distance: 8843.690096324768, time: 5.471428155899048
+alpha: 3, beta: 1, evaporation_rate: 0.1,  best_distance: 9119.323335058714, time: 5.1960461139678955
+alpha: 3, beta: 1, evaporation_rate: 0.1,  best_distance: 8956.834782603417, time: 5.13049054145813
+
+alpha: 3, beta: 2, evaporation_rate: 0.1,  best_distance: 8595.03263117146, time: 5.308155298233032
+alpha: 3, beta: 2, evaporation_rate: 0.1,  best_distance: 8521.083303547639, time: 5.192732810974121
+alpha: 3, beta: 2, evaporation_rate: 0.1,  best_distance: 8696.651284596881, time: 5.1293089389801025
+
+alpha: 3, beta: 3, evaporation_rate: 0.1,  best_distance: 8593.072034383666, time: 5.337754487991333
+alpha: 3, beta: 3, evaporation_rate: 0.1,  best_distance: 8621.932466517654, time: 5.160699844360352
+alpha: 3, beta: 3, evaporation_rate: 0.1,  best_distance: 8742.469375339037, time: 5.556753635406494
+
+alpha: 3, beta: 4, evaporation_rate: 0.1,  best_distance: 8336.012965986381, time: 5.279948949813843
+alpha: 3, beta: 4, evaporation_rate: 0.1,  best_distance: 8506.498911119375, time: 5.174699068069458
+alpha: 3, beta: 4, evaporation_rate: 0.1,  best_distance: 8775.952441232974, time: 5.142023324966431
+
+alpha: 3, beta: 5, evaporation_rate: 0.1,  best_distance: 8462.317551747597, time: 5.310626029968262
+alpha: 3, beta: 5, evaporation_rate: 0.1,  best_distance: 8675.82393685123, time: 5.18117356300354
+alpha: 3, beta: 5, evaporation_rate: 0.1,  best_distance: 8405.49435942108, time: 5.165869951248169
+
+alpha: 3, beta: 6, evaporation_rate: 0.1,  best_distance: 8358.532674607855, time: 5.286242723464966
+alpha: 3, beta: 6, evaporation_rate: 0.1,  best_distance: 8205.690360533856, time: 5.261714696884155
+alpha: 3, beta: 6, evaporation_rate: 0.1,  best_distance: 8502.74350667499, time: 5.1335835456848145
+
+alpha: 3, beta: 7, evaporation_rate: 0.1,  best_distance: 8377.646765176234, time: 5.4263811111450195
+alpha: 3, beta: 7, evaporation_rate: 0.1,  best_distance: 8137.717211448241, time: 6.034230947494507
+alpha: 3, beta: 7, evaporation_rate: 0.1,  best_distance: 8294.3256801381, time: 5.275420904159546
+
+alpha: 3, beta: 8, evaporation_rate: 0.1,  best_distance: 8127.659410785556, time: 6.025853157043457
+alpha: 3, beta: 8, evaporation_rate: 0.1,  best_distance: 8121.887129629846, time: 8.046224594116211
+alpha: 3, beta: 8, evaporation_rate: 0.1,  best_distance: 8406.832154242044, time: 8.071981191635132
+
+alpha: 3, beta: 9, evaporation_rate: 0.1,  best_distance: 8355.156412948121, time: 6.516044855117798
+alpha: 3, beta: 9, evaporation_rate: 0.1,  best_distance: 8265.231912578793, time: 2.985089063644409
+alpha: 3, beta: 9, evaporation_rate: 0.1,  best_distance: 8350.744578628004, time: 7.701601505279541
+
+alpha: 3, beta: 10, evaporation_rate: 0.1,  best_distance: 8225.162974242126, time: 6.677974700927734
+alpha: 3, beta: 10, evaporation_rate: 0.1,  best_distance: 8113.953499491083, time: 7.21407151222229
+alpha: 3, beta: 10, evaporation_rate: 0.1,  best_distance: 8489.24351171725, time: 5.76179313659668
+
+alpha: 3, beta: 11, evaporation_rate: 0.1,  best_distance: 8362.329234798619, time: 5.171951055526733
+alpha: 3, beta: 11, evaporation_rate: 0.1,  best_distance: 8492.197641116934, time: 5.007703542709351
+alpha: 3, beta: 11, evaporation_rate: 0.1,  best_distance: 8113.953499491083, time: 4.98117208480835
+
+alpha: 3, beta: 12, evaporation_rate: 0.1,  best_distance: 8133.035984131764, time: 5.189476490020752
+alpha: 3, beta: 12, evaporation_rate: 0.1,  best_distance: 8301.63081991551, time: 4.971858263015747
+alpha: 3, beta: 12, evaporation_rate: 0.1,  best_distance: 8326.303512837305, time: 4.987774848937988
+
+alpha: 3, beta: 13, evaporation_rate: 0.1,  best_distance: 8185.962234965389, time: 5.453558921813965
+alpha: 3, beta: 13, evaporation_rate: 0.1,  best_distance: 8143.132189034873, time: 4.98918604850769
+alpha: 3, beta: 13, evaporation_rate: 0.1,  best_distance: 8394.853257578912, time: 4.970705986022949
+
+alpha: 3, beta: 14, evaporation_rate: 0.1,  best_distance: 8171.484651859295, time: 5.163626670837402
+alpha: 3, beta: 14, evaporation_rate: 0.1,  best_distance: 8518.73169454376, time: 5.004686117172241
+alpha: 3, beta: 14, evaporation_rate: 0.1,  best_distance: 8247.085204135647, time: 4.987573862075806
+
+alpha: 3, beta: 15, evaporation_rate: 0.1,  best_distance: 8341.922429788048, time: 5.149688005447388
+alpha: 3, beta: 15, evaporation_rate: 0.1,  best_distance: 8660.29587530225, time: 4.986767768859863
+alpha: 3, beta: 15, evaporation_rate: 0.1,  best_distance: 8316.238859377398, time: 4.964749813079834
+
+alpha: 3, beta: 16, evaporation_rate: 0.1,  best_distance: 8375.292096743598, time: 5.180990934371948
+alpha: 3, beta: 16, evaporation_rate: 0.1,  best_distance: 8155.555692753238, time: 4.9932451248168945
+alpha: 3, beta: 16, evaporation_rate: 0.1,  best_distance: 8193.020802220937, time: 4.995517730712891
+
+alpha: 3, beta: 17, evaporation_rate: 0.1,  best_distance: 8520.500149148358, time: 5.1535680294036865
+alpha: 3, beta: 17, evaporation_rate: 0.1,  best_distance: 8553.755702444927, time: 5.059865713119507
+alpha: 3, beta: 17, evaporation_rate: 0.1,  best_distance: 8469.627079141703, time: 4.942577362060547
+
+alpha: 3, beta: 18, evaporation_rate: 0.1,  best_distance: 8706.096521385554, time: 5.157408714294434
+alpha: 3, beta: 18, evaporation_rate: 0.1,  best_distance: 8718.646255156626, time: 5.009156227111816
+alpha: 3, beta: 18, evaporation_rate: 0.1,  best_distance: 8613.435271043465, time: 4.966680288314819
+
+alpha: 3, beta: 19, evaporation_rate: 0.1,  best_distance: 8674.178978028429, time: 5.152215480804443
+alpha: 3, beta: 19, evaporation_rate: 0.1,  best_distance: 8656.855348966761, time: 5.044483184814453
+alpha: 3, beta: 19, evaporation_rate: 0.1,  best_distance: 8164.079848846085, time: 5.256106376647949
+
+alpha: 3, beta: 20, evaporation_rate: 0.1,  best_distance: 8607.909877608445, time: 5.205970764160156
+alpha: 3, beta: 20, evaporation_rate: 0.1,  best_distance: 8659.999565954708, time: 5.019278526306152
+alpha: 3, beta: 20, evaporation_rate: 0.1,  best_distance: 8581.92062328747, time: 5.7851197719573975
+
+alpha: 4, beta: 1, evaporation_rate: 0.1,  best_distance: 9302.19877163461, time: 5.523496150970459
+alpha: 4, beta: 1, evaporation_rate: 0.1,  best_distance: 8894.220417649594, time: 4.985185861587524
+alpha: 4, beta: 1, evaporation_rate: 0.1,  best_distance: 9737.157873780034, time: 5.04918360710144
+
+alpha: 4, beta: 2, evaporation_rate: 0.1,  best_distance: 8632.479472547551, time: 5.369691848754883
+alpha: 4, beta: 2, evaporation_rate: 0.1,  best_distance: 8647.909846476085, time: 5.145426988601685
+alpha: 4, beta: 2, evaporation_rate: 0.1,  best_distance: 8743.186296220296, time: 5.254120349884033
+
+alpha: 4, beta: 3, evaporation_rate: 0.1,  best_distance: 8572.664946306531, time: 5.356558322906494
+alpha: 4, beta: 3, evaporation_rate: 0.1,  best_distance: 8696.557779795065, time: 5.169954776763916
+alpha: 4, beta: 3, evaporation_rate: 0.1,  best_distance: 8601.13229318519, time: 5.180608749389648
+
+alpha: 4, beta: 4, evaporation_rate: 0.1,  best_distance: 8536.286286465878, time: 5.3042778968811035
+alpha: 4, beta: 4, evaporation_rate: 0.1,  best_distance: 8795.983604346902, time: 5.173896551132202
+alpha: 4, beta: 4, evaporation_rate: 0.1,  best_distance: 8465.126467008877, time: 5.152606248855591
+
+alpha: 4, beta: 5, evaporation_rate: 0.1,  best_distance: 8147.809876585401, time: 5.3231940269470215
+alpha: 4, beta: 5, evaporation_rate: 0.1,  best_distance: 8242.715860871709, time: 5.168115854263306
+alpha: 4, beta: 5, evaporation_rate: 0.1,  best_distance: 8610.413573816228, time: 5.15058159828186
+
+alpha: 4, beta: 6, evaporation_rate: 0.1,  best_distance: 8365.865471198022, time: 5.3104567527771
+alpha: 4, beta: 6, evaporation_rate: 0.1,  best_distance: 8341.511044558993, time: 5.244738340377808
+alpha: 4, beta: 6, evaporation_rate: 0.1,  best_distance: 8136.112314347239, time: 5.140859842300415
+
+alpha: 4, beta: 7, evaporation_rate: 0.1,  best_distance: 8219.821597550086, time: 5.306786060333252
+alpha: 4, beta: 7, evaporation_rate: 0.1,  best_distance: 8451.244462847973, time: 5.159229755401611
+alpha: 4, beta: 7, evaporation_rate: 0.1,  best_distance: 8174.17055140556, time: 5.177042484283447
+
+alpha: 4, beta: 8, evaporation_rate: 0.1,  best_distance: 8588.414069959883, time: 5.339598655700684
+alpha: 4, beta: 8, evaporation_rate: 0.1,  best_distance: 8372.955117080375, time: 6.446342468261719
+alpha: 4, beta: 8, evaporation_rate: 0.1,  best_distance: 8166.8578437392025, time: 5.207830190658569
+
+alpha: 4, beta: 9, evaporation_rate: 0.1,  best_distance: 8300.243141145924, time: 5.167928457260132
+alpha: 4, beta: 9, evaporation_rate: 0.1,  best_distance: 8301.683562456672, time: 4.989071369171143
+alpha: 4, beta: 9, evaporation_rate: 0.1,  best_distance: 8217.241540730236, time: 4.955244064331055
+
+alpha: 4, beta: 10, evaporation_rate: 0.1,  best_distance: 8429.309661945459, time: 5.1497063636779785
+alpha: 4, beta: 10, evaporation_rate: 0.1,  best_distance: 8398.678769119198, time: 5.005531072616577
+alpha: 4, beta: 10, evaporation_rate: 0.1,  best_distance: 8188.402088185245, time: 5.002854824066162
+
+alpha: 4, beta: 11, evaporation_rate: 0.1,  best_distance: 8458.32420134464, time: 5.140360593795776
+alpha: 4, beta: 11, evaporation_rate: 0.1,  best_distance: 8191.21277742776, time: 5.056908369064331
+alpha: 4, beta: 11, evaporation_rate: 0.1,  best_distance: 8279.911829312432, time: 4.961384296417236
+
+alpha: 4, beta: 12, evaporation_rate: 0.1,  best_distance: 8229.608520991438, time: 5.392266750335693
+alpha: 4, beta: 12, evaporation_rate: 0.1,  best_distance: 8432.253740913788, time: 5.91745138168335
+alpha: 4, beta: 12, evaporation_rate: 0.1,  best_distance: 8121.0638109117, time: 5.008353233337402
+
+alpha: 4, beta: 13, evaporation_rate: 0.1,  best_distance: 8074.606571862399, time: 6.355442762374878
+alpha: 4, beta: 13, evaporation_rate: 0.1,  best_distance: 8103.0027734588275, time: 7.788284540176392
+alpha: 4, beta: 13, evaporation_rate: 0.1,  best_distance: 8174.122062633157, time: 7.799928665161133
+
+alpha: 4, beta: 14, evaporation_rate: 0.1,  best_distance: 8497.491799858788, time: 7.938807725906372
+alpha: 4, beta: 14, evaporation_rate: 0.1,  best_distance: 8551.682679590958, time: 7.677215099334717
+alpha: 4, beta: 14, evaporation_rate: 0.1,  best_distance: 8350.921077700017, time: 3.305676221847534
+
+alpha: 4, beta: 15, evaporation_rate: 0.1,  best_distance: 8177.893116906982, time: 5.325294256210327
+alpha: 4, beta: 15, evaporation_rate: 0.1,  best_distance: 8324.824936406756, time: 5.4484031200408936
+alpha: 4, beta: 15, evaporation_rate: 0.1,  best_distance: 8282.72316540245, time: 4.957977056503296
+
+alpha: 4, beta: 16, evaporation_rate: 0.1,  best_distance: 8258.556337795122, time: 5.216626882553101
+alpha: 4, beta: 16, evaporation_rate: 0.1,  best_distance: 8610.628449686761, time: 5.051044940948486
+alpha: 4, beta: 16, evaporation_rate: 0.1,  best_distance: 8336.62640694981, time: 5.198537826538086
+
+alpha: 4, beta: 17, evaporation_rate: 0.1,  best_distance: 8585.34791557362, time: 5.295015335083008
+alpha: 4, beta: 17, evaporation_rate: 0.1,  best_distance: 8656.855348966761, time: 5.177884817123413
+alpha: 4, beta: 17, evaporation_rate: 0.1,  best_distance: 8624.011426780919, time: 5.1453306674957275
+
+alpha: 4, beta: 18, evaporation_rate: 0.1,  best_distance: 8585.34791557362, time: 5.360926628112793
+alpha: 4, beta: 18, evaporation_rate: 0.1,  best_distance: 8666.408031002395, time: 5.358462572097778
+alpha: 4, beta: 18, evaporation_rate: 0.1,  best_distance: 8772.843687639404, time: 5.184051513671875
+
+alpha: 4, beta: 19, evaporation_rate: 0.1,  best_distance: 8656.855348966761, time: 5.332370042800903
+alpha: 4, beta: 19, evaporation_rate: 0.1,  best_distance: 8611.932495740923, time: 5.171455144882202
+alpha: 4, beta: 19, evaporation_rate: 0.1,  best_distance: 8659.999565954708, time: 5.135608673095703
+
+alpha: 4, beta: 20, evaporation_rate: 0.1,  best_distance: 8683.663444904674, time: 5.336518287658691
+alpha: 4, beta: 20, evaporation_rate: 0.1,  best_distance: 8419.493591872188, time: 5.170153856277466
+alpha: 4, beta: 20, evaporation_rate: 0.1,  best_distance: 8659.999565954708, time: 5.1420066356658936
+
+alpha: 5, beta: 1, evaporation_rate: 0.1,  best_distance: 8641.687506155744, time: 5.2743048667907715
+alpha: 5, beta: 1, evaporation_rate: 0.1,  best_distance: 9374.129608291989, time: 5.151385545730591
+alpha: 5, beta: 1, evaporation_rate: 0.1,  best_distance: 8817.486856704623, time: 5.102941989898682
+
+alpha: 5, beta: 2, evaporation_rate: 0.1,  best_distance: 8487.762106742415, time: 5.31828236579895
+alpha: 5, beta: 2, evaporation_rate: 0.1,  best_distance: 8647.947298677116, time: 5.209957122802734
+alpha: 5, beta: 2, evaporation_rate: 0.1,  best_distance: 8530.656273722701, time: 5.143747329711914
+
+alpha: 5, beta: 3, evaporation_rate: 0.1,  best_distance: 8804.928801777503, time: 5.30400824546814
+alpha: 5, beta: 3, evaporation_rate: 0.1,  best_distance: 8758.789925231249, time: 5.163163185119629
+alpha: 5, beta: 3, evaporation_rate: 0.1,  best_distance: 8431.31926299083, time: 5.178898572921753
+
+alpha: 5, beta: 4, evaporation_rate: 0.1,  best_distance: 8402.218633484372, time: 5.295003414154053
+alpha: 5, beta: 4, evaporation_rate: 0.1,  best_distance: 8655.891373153408, time: 5.177231788635254
+alpha: 5, beta: 4, evaporation_rate: 0.1,  best_distance: 8528.357138896534, time: 5.128584861755371
+
+alpha: 5, beta: 5, evaporation_rate: 0.1,  best_distance: 8204.267193144176, time: 5.402139663696289
+alpha: 5, beta: 5, evaporation_rate: 0.1,  best_distance: 8465.87842991998, time: 5.160740852355957
+alpha: 5, beta: 5, evaporation_rate: 0.1,  best_distance: 8459.043132131254, time: 5.122553825378418
+
+alpha: 5, beta: 6, evaporation_rate: 0.1,  best_distance: 8445.58117445445, time: 5.370516777038574
+alpha: 5, beta: 6, evaporation_rate: 0.1,  best_distance: 8297.290447533696, time: 6.431359767913818
+alpha: 5, beta: 6, evaporation_rate: 0.1,  best_distance: 8272.22625237405, time: 5.203848123550415
+
+alpha: 5, beta: 7, evaporation_rate: 0.1,  best_distance: 8542.01690346729, time: 5.315429210662842
+alpha: 5, beta: 7, evaporation_rate: 0.1,  best_distance: 8356.503722858663, time: 5.190895318984985
+alpha: 5, beta: 7, evaporation_rate: 0.1,  best_distance: 8441.180848215628, time: 5.141979932785034
+
+alpha: 5, beta: 8, evaporation_rate: 0.1,  best_distance: 8243.288665510976, time: 5.3502442836761475
+alpha: 5, beta: 8, evaporation_rate: 0.1,  best_distance: 8046.061860778897, time: 5.375017404556274
+alpha: 5, beta: 8, evaporation_rate: 0.1,  best_distance: 8133.035984131764, time: 5.13559889793396
+
+alpha: 5, beta: 9, evaporation_rate: 0.1,  best_distance: 8170.273685932086, time: 5.327227592468262
+alpha: 5, beta: 9, evaporation_rate: 0.1,  best_distance: 8135.050429237557, time: 5.202690601348877
+alpha: 5, beta: 9, evaporation_rate: 0.1,  best_distance: 8222.122280604297, time: 5.160050392150879
+
+alpha: 5, beta: 10, evaporation_rate: 0.1,  best_distance: 8111.410063585786, time: 5.3279430866241455
+alpha: 5, beta: 10, evaporation_rate: 0.1,  best_distance: 8426.82591738991, time: 5.17505669593811
+alpha: 5, beta: 10, evaporation_rate: 0.1,  best_distance: 7987.637057121388, time: 5.576728343963623
+
+alpha: 5, beta: 11, evaporation_rate: 0.1,  best_distance: 8411.22224732406, time: 6.310355186462402
+alpha: 5, beta: 11, evaporation_rate: 0.1,  best_distance: 8149.409734831341, time: 5.166285037994385
+alpha: 5, beta: 11, evaporation_rate: 0.1,  best_distance: 8268.695817636353, time: 4.989822626113892
+
+alpha: 5, beta: 12, evaporation_rate: 0.1,  best_distance: 8316.238859377398, time: 5.159775495529175
+alpha: 5, beta: 12, evaporation_rate: 0.1,  best_distance: 8439.776754067781, time: 4.988529920578003
+alpha: 5, beta: 12, evaporation_rate: 0.1,  best_distance: 8634.977219569766, time: 5.018044710159302
+
+alpha: 5, beta: 13, evaporation_rate: 0.1,  best_distance: 8358.556451857468, time: 5.1342737674713135
+alpha: 5, beta: 13, evaporation_rate: 0.1,  best_distance: 8131.905402021989, time: 4.98105788230896
+alpha: 5, beta: 13, evaporation_rate: 0.1,  best_distance: 8248.087422752122, time: 5.553749322891235
+
+alpha: 5, beta: 14, evaporation_rate: 0.1,  best_distance: 8246.053109336557, time: 5.537024259567261
+alpha: 5, beta: 14, evaporation_rate: 0.1,  best_distance: 8421.85124563785, time: 5.061346054077148
+alpha: 5, beta: 14, evaporation_rate: 0.1,  best_distance: 8338.412753446983, time: 4.981125831604004
+
+alpha: 5, beta: 15, evaporation_rate: 0.1,  best_distance: 8387.425565389754, time: 5.1609368324279785
+alpha: 5, beta: 15, evaporation_rate: 0.1,  best_distance: 8210.91722192006, time: 5.009151458740234
+alpha: 5, beta: 15, evaporation_rate: 0.1,  best_distance: 8655.01353710042, time: 4.9723968505859375
+
+alpha: 5, beta: 16, evaporation_rate: 0.1,  best_distance: 8499.49959032869, time: 5.159879922866821
+alpha: 5, beta: 16, evaporation_rate: 0.1,  best_distance: 8173.494952541345, time: 4.97737455368042
+alpha: 5, beta: 16, evaporation_rate: 0.1,  best_distance: 8624.011426780919, time: 4.945626974105835
+
+alpha: 5, beta: 17, evaporation_rate: 0.1,  best_distance: 8566.207401027375, time: 5.19132661819458
+alpha: 5, beta: 17, evaporation_rate: 0.1,  best_distance: 8482.94673966248, time: 5.147867441177368
+alpha: 5, beta: 17, evaporation_rate: 0.1,  best_distance: 8659.999565954708, time: 4.988807916641235
+
+alpha: 5, beta: 18, evaporation_rate: 0.1,  best_distance: 8601.733213163066, time: 5.183928966522217
+alpha: 5, beta: 18, evaporation_rate: 0.1,  best_distance: 8680.252068594318, time: 4.97247052192688
+alpha: 5, beta: 18, evaporation_rate: 0.1,  best_distance: 8739.068714881638, time: 4.97189998626709
+
+alpha: 5, beta: 19, evaporation_rate: 0.1,  best_distance: 8171.484651859295, time: 5.153339147567749
+alpha: 5, beta: 19, evaporation_rate: 0.1,  best_distance: 8239.64464428887, time: 5.042386531829834
+alpha: 5, beta: 19, evaporation_rate: 0.1,  best_distance: 8171.484651859295, time: 5.169351100921631
+
+alpha: 5, beta: 20, evaporation_rate: 0.1,  best_distance: 8682.577886194758, time: 5.309814453125
+alpha: 5, beta: 20, evaporation_rate: 0.1,  best_distance: 8587.359285435148, time: 5.168791770935059
+alpha: 5, beta: 20, evaporation_rate: 0.1,  best_distance: 8562.303191744779, time: 5.166748762130737
+
+alpha: 6, beta: 1, evaporation_rate: 0.1,  best_distance: 9087.972528400336, time: 5.269149541854858
+alpha: 6, beta: 1, evaporation_rate: 0.1,  best_distance: 9093.225627383086, time: 5.147366762161255
+alpha: 6, beta: 1, evaporation_rate: 0.1,  best_distance: 9653.517132595442, time: 5.111676216125488
+
+alpha: 6, beta: 2, evaporation_rate: 0.1,  best_distance: 8577.91695017482, time: 5.34454607963562
+alpha: 6, beta: 2, evaporation_rate: 0.1,  best_distance: 8776.616515156058, time: 5.164555072784424
+alpha: 6, beta: 2, evaporation_rate: 0.1,  best_distance: 8751.36029134069, time: 5.143680095672607
+
+alpha: 6, beta: 3, evaporation_rate: 0.1,  best_distance: 8727.975663789268, time: 5.31732964515686
+alpha: 6, beta: 3, evaporation_rate: 0.1,  best_distance: 8792.282220640289, time: 5.244020938873291
+alpha: 6, beta: 3, evaporation_rate: 0.1,  best_distance: 8822.006929499235, time: 5.146002531051636
+
+alpha: 6, beta: 4, evaporation_rate: 0.1,  best_distance: 8409.415032146559, time: 5.305618762969971
+alpha: 6, beta: 4, evaporation_rate: 0.1,  best_distance: 8564.633271550183, time: 5.194030046463013
+alpha: 6, beta: 4, evaporation_rate: 0.1,  best_distance: 8185.962234965389, time: 5.3705761432647705
+
+alpha: 6, beta: 5, evaporation_rate: 0.1,  best_distance: 8790.728962152578, time: 5.2856221199035645
+alpha: 6, beta: 5, evaporation_rate: 0.1,  best_distance: 8765.042463620888, time: 5.219027042388916
+alpha: 6, beta: 5, evaporation_rate: 0.1,  best_distance: 8562.905451697545, time: 5.1535022258758545
+
+alpha: 6, beta: 6, evaporation_rate: 0.1,  best_distance: 8222.60247135539, time: 5.320324659347534
+alpha: 6, beta: 6, evaporation_rate: 0.1,  best_distance: 8292.937490138756, time: 5.166066884994507
+alpha: 6, beta: 6, evaporation_rate: 0.1,  best_distance: 8336.000927671077, time: 5.551294565200806
+
+alpha: 6, beta: 7, evaporation_rate: 0.1,  best_distance: 8086.616383286425, time: 5.322420358657837
+alpha: 6, beta: 7, evaporation_rate: 0.1,  best_distance: 8549.978696937307, time: 5.151247262954712
+alpha: 6, beta: 7, evaporation_rate: 0.1,  best_distance: 8204.100565383878, time: 5.164225339889526
+
+alpha: 6, beta: 8, evaporation_rate: 0.1,  best_distance: 8333.653462567147, time: 5.421285629272461
+alpha: 6, beta: 8, evaporation_rate: 0.1,  best_distance: 8339.94082060789, time: 5.166134834289551
+alpha: 6, beta: 8, evaporation_rate: 0.1,  best_distance: 8204.434378751683, time: 5.816121578216553
+
+alpha: 6, beta: 9, evaporation_rate: 0.1,  best_distance: 8303.417955567527, time: 5.3326520919799805
+alpha: 6, beta: 9, evaporation_rate: 0.1,  best_distance: 8245.215181322481, time: 4.982216119766235
+alpha: 6, beta: 9, evaporation_rate: 0.1,  best_distance: 8318.109433882992, time: 4.972982406616211
+
+alpha: 6, beta: 10, evaporation_rate: 0.1,  best_distance: 8209.106780518938, time: 5.218317985534668
+alpha: 6, beta: 10, evaporation_rate: 0.1,  best_distance: 8337.679846374707, time: 4.991185903549194
+alpha: 6, beta: 10, evaporation_rate: 0.1,  best_distance: 8319.05900834746, time: 4.970093488693237
+
+alpha: 6, beta: 11, evaporation_rate: 0.1,  best_distance: 8044.204854940743, time: 5.15768575668335
+alpha: 6, beta: 11, evaporation_rate: 0.1,  best_distance: 8379.478450150455, time: 5.008845329284668
+alpha: 6, beta: 11, evaporation_rate: 0.1,  best_distance: 8075.504831763552, time: 4.961634159088135
+
+alpha: 6, beta: 12, evaporation_rate: 0.1,  best_distance: 8167.812394845343, time: 5.149199962615967
+alpha: 6, beta: 12, evaporation_rate: 0.1,  best_distance: 8154.486733266487, time: 4.990507125854492
+alpha: 6, beta: 12, evaporation_rate: 0.1,  best_distance: 8585.34791557362, time: 4.955610036849976
+
+alpha: 6, beta: 13, evaporation_rate: 0.1,  best_distance: 8122.488623733931, time: 5.2100419998168945
+alpha: 6, beta: 13, evaporation_rate: 0.1,  best_distance: 8671.11111747758, time: 5.020618677139282
+alpha: 6, beta: 13, evaporation_rate: 0.1,  best_distance: 8461.856997799598, time: 4.986781358718872
+
+alpha: 6, beta: 14, evaporation_rate: 0.1,  best_distance: 8542.575066176312, time: 5.344197750091553
+alpha: 6, beta: 14, evaporation_rate: 0.1,  best_distance: 8614.150783466452, time: 5.003404378890991
+alpha: 6, beta: 14, evaporation_rate: 0.1,  best_distance: 8115.833246259419, time: 5.0043816566467285
+
+alpha: 6, beta: 15, evaporation_rate: 0.1,  best_distance: 8662.460094508451, time: 5.241284608840942
+alpha: 6, beta: 15, evaporation_rate: 0.1,  best_distance: 8504.126398448781, time: 5.003125905990601
+alpha: 6, beta: 15, evaporation_rate: 0.1,  best_distance: 8113.953499491083, time: 4.954300880432129
+
+alpha: 6, beta: 16, evaporation_rate: 0.1,  best_distance: 8605.076041142087, time: 5.162657022476196
+alpha: 6, beta: 16, evaporation_rate: 0.1,  best_distance: 8469.745511275816, time: 5.03425145149231
+alpha: 6, beta: 16, evaporation_rate: 0.1,  best_distance: 8624.011426780919, time: 5.137653350830078
+
+alpha: 6, beta: 17, evaporation_rate: 0.1,  best_distance: 8258.962512791399, time: 5.154969930648804
+alpha: 6, beta: 17, evaporation_rate: 0.1,  best_distance: 8502.85147436054, time: 5.011234760284424
+alpha: 6, beta: 17, evaporation_rate: 0.1,  best_distance: 8474.527986551135, time: 4.976378679275513
+
+alpha: 6, beta: 18, evaporation_rate: 0.1,  best_distance: 8385.101047772836, time: 5.245458126068115
+alpha: 6, beta: 18, evaporation_rate: 0.1,  best_distance: 8541.047769252336, time: 4.994086503982544
+alpha: 6, beta: 18, evaporation_rate: 0.1,  best_distance: 8656.855348966761, time: 4.978377819061279
+
+alpha: 6, beta: 19, evaporation_rate: 0.1,  best_distance: 8643.205160507647, time: 5.160963535308838
+alpha: 6, beta: 19, evaporation_rate: 0.1,  best_distance: 8551.150483375894, time: 4.994173526763916
+alpha: 6, beta: 19, evaporation_rate: 0.1,  best_distance: 8449.231255799956, time: 4.993057489395142
+
+alpha: 6, beta: 20, evaporation_rate: 0.1,  best_distance: 8745.773489276868, time: 5.125886917114258
+alpha: 6, beta: 20, evaporation_rate: 0.1,  best_distance: 8750.521454177398, time: 4.981119632720947
+alpha: 6, beta: 20, evaporation_rate: 0.1,  best_distance: 8684.865432918497, time: 4.969980478286743
+
+alpha: 7, beta: 1, evaporation_rate: 0.1,  best_distance: 9501.7565108589, time: 5.17696475982666
+alpha: 7, beta: 1, evaporation_rate: 0.1,  best_distance: 8899.276442378892, time: 4.980284214019775
+alpha: 7, beta: 1, evaporation_rate: 0.1,  best_distance: 10461.48571083419, time: 4.932162761688232
+
+alpha: 7, beta: 2, evaporation_rate: 0.1,  best_distance: 8597.58106324225, time: 5.158689975738525
+alpha: 7, beta: 2, evaporation_rate: 0.1,  best_distance: 8939.841895992537, time: 5.072574138641357
+alpha: 7, beta: 2, evaporation_rate: 0.1,  best_distance: 8722.23481855371, time: 5.040040969848633
+
+alpha: 7, beta: 3, evaporation_rate: 0.1,  best_distance: 8838.061918508007, time: 5.3326027393341064
+alpha: 7, beta: 3, evaporation_rate: 0.1,  best_distance: 8599.26898287109, time: 5.169683933258057
+alpha: 7, beta: 3, evaporation_rate: 0.1,  best_distance: 9125.030401354381, time: 5.1507909297943115
+
+alpha: 7, beta: 4, evaporation_rate: 0.1,  best_distance: 8522.341813678142, time: 5.308909177780151
+alpha: 7, beta: 4, evaporation_rate: 0.1,  best_distance: 8421.121831273513, time: 5.19164252281189
+alpha: 7, beta: 4, evaporation_rate: 0.1,  best_distance: 8666.927147007895, time: 5.626624584197998
+
+alpha: 7, beta: 5, evaporation_rate: 0.1,  best_distance: 8523.68424852305, time: 5.692293405532837
+alpha: 7, beta: 5, evaporation_rate: 0.1,  best_distance: 8610.212303821274, time: 5.177463531494141
+alpha: 7, beta: 5, evaporation_rate: 0.1,  best_distance: 8494.422589198504, time: 5.1775524616241455
+
+alpha: 7, beta: 6, evaporation_rate: 0.1,  best_distance: 8153.028765006314, time: 5.3247528076171875
+alpha: 7, beta: 6, evaporation_rate: 0.1,  best_distance: 8663.403241647386, time: 5.1630401611328125
+alpha: 7, beta: 6, evaporation_rate: 0.1,  best_distance: 8505.089376635833, time: 5.146333456039429
+
+alpha: 7, beta: 7, evaporation_rate: 0.1,  best_distance: 8083.9911023230525, time: 5.365710496902466
+alpha: 7, beta: 7, evaporation_rate: 0.1,  best_distance: 8059.7744650486775, time: 5.224026918411255
+alpha: 7, beta: 7, evaporation_rate: 0.1,  best_distance: 8307.729278582434, time: 5.436683654785156
+
+alpha: 7, beta: 8, evaporation_rate: 0.1,  best_distance: 8122.488623733931, time: 5.30376935005188
+alpha: 7, beta: 8, evaporation_rate: 0.1,  best_distance: 8261.73270402037, time: 5.179100513458252
+alpha: 7, beta: 8, evaporation_rate: 0.1,  best_distance: 8156.8783350114545, time: 5.2752180099487305
+
+alpha: 7, beta: 9, evaporation_rate: 0.1,  best_distance: 8511.834262470275, time: 5.339231967926025
+alpha: 7, beta: 9, evaporation_rate: 0.1,  best_distance: 8360.610650554248, time: 5.215462684631348
+alpha: 7, beta: 9, evaporation_rate: 0.1,  best_distance: 8338.31906896266, time: 5.1491100788116455
+
+alpha: 7, beta: 10, evaporation_rate: 0.1,  best_distance: 8051.004521412959, time: 5.312124013900757
+alpha: 7, beta: 10, evaporation_rate: 0.1,  best_distance: 8496.678611219908, time: 5.1748902797698975
+alpha: 7, beta: 10, evaporation_rate: 0.1,  best_distance: 8333.28457723862, time: 5.165766716003418
+
+alpha: 7, beta: 11, evaporation_rate: 0.1,  best_distance: 8311.612051257305, time: 5.325664758682251
+alpha: 7, beta: 11, evaporation_rate: 0.1,  best_distance: 8381.599960771782, time: 5.168766736984253
+alpha: 7, beta: 11, evaporation_rate: 0.1,  best_distance: 8158.957758752796, time: 5.252887725830078
+
+alpha: 7, beta: 12, evaporation_rate: 0.1,  best_distance: 8168.108704192886, time: 6.073806524276733
+alpha: 7, beta: 12, evaporation_rate: 0.1,  best_distance: 8104.913704398362, time: 5.263671636581421
+alpha: 7, beta: 12, evaporation_rate: 0.1,  best_distance: 8483.543787353621, time: 5.124839782714844
+
+alpha: 7, beta: 13, evaporation_rate: 0.1,  best_distance: 7998.242732285025, time: 5.389447450637817
+alpha: 7, beta: 13, evaporation_rate: 0.1,  best_distance: 8607.867624195094, time: 4.97597336769104
+alpha: 7, beta: 13, evaporation_rate: 0.1,  best_distance: 8361.818697752577, time: 4.955980539321899
+
+alpha: 7, beta: 14, evaporation_rate: 0.1,  best_distance: 8102.545342392482, time: 5.362989664077759
+alpha: 7, beta: 14, evaporation_rate: 0.1,  best_distance: 8200.785719495403, time: 5.004444360733032
+alpha: 7, beta: 14, evaporation_rate: 0.1,  best_distance: 8605.076041142087, time: 4.985784292221069
+
+alpha: 7, beta: 15, evaporation_rate: 0.1,  best_distance: 8292.839763809277, time: 5.115712642669678
+alpha: 7, beta: 15, evaporation_rate: 0.1,  best_distance: 8715.969042315044, time: 4.987374544143677
+alpha: 7, beta: 15, evaporation_rate: 0.1,  best_distance: 8656.855348966761, time: 5.0012688636779785
+
+alpha: 7, beta: 16, evaporation_rate: 0.1,  best_distance: 8648.039916663349, time: 5.45897364616394
+alpha: 7, beta: 16, evaporation_rate: 0.1,  best_distance: 8585.34791557362, time: 5.04112696647644
+alpha: 7, beta: 16, evaporation_rate: 0.1,  best_distance: 8643.680502727782, time: 5.834920644760132
+
+alpha: 7, beta: 17, evaporation_rate: 0.1,  best_distance: 8585.34791557362, time: 5.150052309036255
+alpha: 7, beta: 17, evaporation_rate: 0.1,  best_distance: 8645.820075798982, time: 4.991947889328003
+alpha: 7, beta: 17, evaporation_rate: 0.1,  best_distance: 8246.42677748055, time: 4.943909168243408
+
+alpha: 7, beta: 18, evaporation_rate: 0.1,  best_distance: 8204.267193144176, time: 5.160843133926392
+alpha: 7, beta: 18, evaporation_rate: 0.1,  best_distance: 8642.031252185674, time: 4.989988565444946
+alpha: 7, beta: 18, evaporation_rate: 0.1,  best_distance: 8544.930501820283, time: 5.025607585906982
+
+alpha: 7, beta: 19, evaporation_rate: 0.1,  best_distance: 8666.408031002395, time: 5.139587163925171
+alpha: 7, beta: 19, evaporation_rate: 0.1,  best_distance: 8605.076041142087, time: 4.9789204597473145
+alpha: 7, beta: 19, evaporation_rate: 0.1,  best_distance: 8689.553077828394, time: 4.979077339172363
+
+alpha: 7, beta: 20, evaporation_rate: 0.1,  best_distance: 8659.999565954708, time: 5.237451791763306
+alpha: 7, beta: 20, evaporation_rate: 0.1,  best_distance: 8735.924497893691, time: 4.972909927368164
+alpha: 7, beta: 20, evaporation_rate: 0.1,  best_distance: 8487.138252100445, time: 5.005260467529297
+
+alpha: 8, beta: 1, evaporation_rate: 0.1,  best_distance: 9494.035138236475, time: 5.119115352630615
+alpha: 8, beta: 1, evaporation_rate: 0.1,  best_distance: 9206.907596650324, time: 5.04126238822937
+alpha: 8, beta: 1, evaporation_rate: 0.1,  best_distance: 8990.22172116877, time: 4.9296088218688965
+
+alpha: 8, beta: 2, evaporation_rate: 0.1,  best_distance: 8872.531761540658, time: 5.143495559692383
+alpha: 8, beta: 2, evaporation_rate: 0.1,  best_distance: 8694.194044183223, time: 4.995011329650879
+alpha: 8, beta: 2, evaporation_rate: 0.1,  best_distance: 8813.51010642689, time: 4.9751598834991455
+
+alpha: 8, beta: 3, evaporation_rate: 0.1,  best_distance: 8670.219944456638, time: 5.155924320220947
+alpha: 8, beta: 3, evaporation_rate: 0.1,  best_distance: 8773.72853531432, time: 4.991592884063721
+alpha: 8, beta: 3, evaporation_rate: 0.1,  best_distance: 8868.203420595906, time: 4.965182542800903
+
+alpha: 8, beta: 4, evaporation_rate: 0.1,  best_distance: 8680.258130665068, time: 5.209906816482544
+alpha: 8, beta: 4, evaporation_rate: 0.1,  best_distance: 8464.163282445003, time: 4.970942974090576
+alpha: 8, beta: 4, evaporation_rate: 0.1,  best_distance: 8105.544318008107, time: 4.970956325531006
+
+alpha: 8, beta: 5, evaporation_rate: 0.1,  best_distance: 8309.324781032834, time: 5.118708848953247
+alpha: 8, beta: 5, evaporation_rate: 0.1,  best_distance: 8449.518269936507, time: 4.969460964202881
+alpha: 8, beta: 5, evaporation_rate: 0.1,  best_distance: 8644.418547582489, time: 4.97022271156311
+
+alpha: 8, beta: 6, evaporation_rate: 0.1,  best_distance: 8242.715860871709, time: 5.3117029666900635
+alpha: 8, beta: 6, evaporation_rate: 0.1,  best_distance: 8624.974643079084, time: 5.148162364959717
+alpha: 8, beta: 6, evaporation_rate: 0.1,  best_distance: 8529.172345200406, time: 5.203713417053223
+
+alpha: 8, beta: 7, evaporation_rate: 0.1,  best_distance: 8278.08650099741, time: 5.432385206222534
+alpha: 8, beta: 7, evaporation_rate: 0.1,  best_distance: 8330.15684855662, time: 5.165481805801392
+alpha: 8, beta: 7, evaporation_rate: 0.1,  best_distance: 8386.045179828638, time: 5.163260221481323
+
+alpha: 8, beta: 8, evaporation_rate: 0.1,  best_distance: 8477.864312608219, time: 5.351426839828491
+alpha: 8, beta: 8, evaporation_rate: 0.1,  best_distance: 8087.438690246259, time: 5.1891419887542725
+alpha: 8, beta: 8, evaporation_rate: 0.1,  best_distance: 8263.458954835223, time: 5.135670185089111
+
+alpha: 8, beta: 9, evaporation_rate: 0.1,  best_distance: 8419.980976925635, time: 5.326174974441528
+alpha: 8, beta: 9, evaporation_rate: 0.1,  best_distance: 8244.166208215334, time: 5.165380239486694
+alpha: 8, beta: 9, evaporation_rate: 0.1,  best_distance: 8140.392204453574, time: 5.14834189414978
+
+alpha: 8, beta: 10, evaporation_rate: 0.1,  best_distance: 8378.59823495215, time: 5.358526706695557
+alpha: 8, beta: 10, evaporation_rate: 0.1,  best_distance: 8549.144636494253, time: 5.149891376495361
+alpha: 8, beta: 10, evaporation_rate: 0.1,  best_distance: 8345.233565339258, time: 5.213545799255371
+
+alpha: 8, beta: 11, evaporation_rate: 0.1,  best_distance: 8045.4219662457535, time: 5.288691282272339
+alpha: 8, beta: 11, evaporation_rate: 0.1,  best_distance: 8055.497657973261, time: 5.151434898376465
+alpha: 8, beta: 11, evaporation_rate: 0.1,  best_distance: 8247.085204135647, time: 5.285950183868408
+
+alpha: 8, beta: 12, evaporation_rate: 0.1,  best_distance: 7997.946422937483, time: 6.5465686321258545
+alpha: 8, beta: 12, evaporation_rate: 0.1,  best_distance: 8077.499194201779, time: 6.71361517906189
+alpha: 8, beta: 12, evaporation_rate: 0.1,  best_distance: 8688.616177776108, time: 6.325998783111572
+
+alpha: 8, beta: 13, evaporation_rate: 0.1,  best_distance: 8532.66500017976, time: 6.468517780303955
+alpha: 8, beta: 13, evaporation_rate: 0.1,  best_distance: 8482.94673966248, time: 6.803491592407227
+alpha: 8, beta: 13, evaporation_rate: 0.1,  best_distance: 8494.422589198504, time: 5.571482419967651
+
+alpha: 8, beta: 14, evaporation_rate: 0.1,  best_distance: 8148.625214350082, time: 5.268629550933838
+alpha: 8, beta: 14, evaporation_rate: 0.1,  best_distance: 8263.458954835223, time: 6.653724908828735
+alpha: 8, beta: 14, evaporation_rate: 0.1,  best_distance: 8307.034837562205, time: 6.529103755950928
+
+alpha: 8, beta: 15, evaporation_rate: 0.1,  best_distance: 8133.97793440709, time: 6.614644527435303
+alpha: 8, beta: 15, evaporation_rate: 0.1,  best_distance: 8495.225854741348, time: 6.920405387878418
+alpha: 8, beta: 15, evaporation_rate: 0.1,  best_distance: 8656.855348966761, time: 6.6601574420928955
+
+alpha: 8, beta: 16, evaporation_rate: 0.1,  best_distance: 8659.999565954708, time: 6.592620372772217
+alpha: 8, beta: 16, evaporation_rate: 0.1,  best_distance: 8394.785714710064, time: 6.546990394592285
+alpha: 8, beta: 16, evaporation_rate: 0.1,  best_distance: 8184.903109639946, time: 5.428048610687256
+
+alpha: 8, beta: 17, evaporation_rate: 0.1,  best_distance: 8706.337121649687, time: 5.836805105209351
+alpha: 8, beta: 17, evaporation_rate: 0.1,  best_distance: 8724.889224725912, time: 6.211930513381958
+alpha: 8, beta: 17, evaporation_rate: 0.1,  best_distance: 8651.003316395672, time: 6.885881662368774
+
+alpha: 8, beta: 18, evaporation_rate: 0.1,  best_distance: 8502.85147436054, time: 5.440123796463013
+alpha: 8, beta: 18, evaporation_rate: 0.1,  best_distance: 8511.322889840718, time: 4.987283229827881
+alpha: 8, beta: 18, evaporation_rate: 0.1,  best_distance: 8605.076041142087, time: 4.986307621002197
+
+alpha: 8, beta: 19, evaporation_rate: 0.1,  best_distance: 8624.011426780919, time: 5.134711980819702
+alpha: 8, beta: 19, evaporation_rate: 0.1,  best_distance: 8289.160000566622, time: 4.987895727157593
+alpha: 8, beta: 19, evaporation_rate: 0.1,  best_distance: 8645.820075798982, time: 4.956803560256958
+
+alpha: 8, beta: 20, evaporation_rate: 0.1,  best_distance: 8739.068714881638, time: 5.310851335525513
+alpha: 8, beta: 20, evaporation_rate: 0.1,  best_distance: 8563.272998545666, time: 5.160102605819702
+alpha: 8, beta: 20, evaporation_rate: 0.1,  best_distance: 8733.007395212117, time: 5.144972085952759
+
+alpha: 9, beta: 1, evaporation_rate: 0.1,  best_distance: 9774.269637735742, time: 5.255151748657227
+alpha: 9, beta: 1, evaporation_rate: 0.1,  best_distance: 8919.070123374286, time: 5.133878231048584
+alpha: 9, beta: 1, evaporation_rate: 0.1,  best_distance: 8567.646072310232, time: 5.116204261779785
+
+alpha: 9, beta: 2, evaporation_rate: 0.1,  best_distance: 8741.557364220862, time: 5.473634481430054
+alpha: 9, beta: 2, evaporation_rate: 0.1,  best_distance: 8909.604256647324, time: 5.160555839538574
+alpha: 9, beta: 2, evaporation_rate: 0.1,  best_distance: 8061.20865976286, time: 5.181626319885254
+
+alpha: 9, beta: 3, evaporation_rate: 0.1,  best_distance: 8528.14086940582, time: 5.29195761680603
+alpha: 9, beta: 3, evaporation_rate: 0.1,  best_distance: 8395.102569201801, time: 5.165380477905273
+alpha: 9, beta: 3, evaporation_rate: 0.1,  best_distance: 8850.44979157874, time: 5.148258924484253
+
+alpha: 9, beta: 4, evaporation_rate: 0.1,  best_distance: 8691.203391914483, time: 5.309003591537476
+alpha: 9, beta: 4, evaporation_rate: 0.1,  best_distance: 8382.69096182335, time: 5.196326971054077
+alpha: 9, beta: 4, evaporation_rate: 0.1,  best_distance: 8296.983201127923, time: 5.766170978546143
+
+alpha: 9, beta: 5, evaporation_rate: 0.1,  best_distance: 8238.323595228067, time: 5.582857131958008
+alpha: 9, beta: 5, evaporation_rate: 0.1,  best_distance: 8520.01150848026, time: 5.478410482406616
+alpha: 9, beta: 5, evaporation_rate: 0.1,  best_distance: 8556.317044631493, time: 5.267578125
+
+alpha: 9, beta: 6, evaporation_rate: 0.1,  best_distance: 8332.676213021528, time: 5.320519208908081
+alpha: 9, beta: 6, evaporation_rate: 0.1,  best_distance: 8467.388762547529, time: 5.1934051513671875
+alpha: 9, beta: 6, evaporation_rate: 0.1,  best_distance: 8408.310472472842, time: 5.144847869873047
+
+alpha: 9, beta: 7, evaporation_rate: 0.1,  best_distance: 8193.845495435977, time: 5.369281530380249
+alpha: 9, beta: 7, evaporation_rate: 0.1,  best_distance: 8240.317800776646, time: 5.158171653747559
+alpha: 9, beta: 7, evaporation_rate: 0.1,  best_distance: 8113.378585958592, time: 5.143908977508545
+
+alpha: 9, beta: 8, evaporation_rate: 0.1,  best_distance: 8140.247625898384, time: 5.322307109832764
+alpha: 9, beta: 8, evaporation_rate: 0.1,  best_distance: 8282.753581661755, time: 5.14507532119751
+alpha: 9, beta: 8, evaporation_rate: 0.1,  best_distance: 8314.176524106093, time: 5.153632640838623
+
+alpha: 9, beta: 9, evaporation_rate: 0.1,  best_distance: 8682.76414520502, time: 5.302576303482056
+alpha: 9, beta: 9, evaporation_rate: 0.1,  best_distance: 8322.169796114227, time: 5.16171407699585
+alpha: 9, beta: 9, evaporation_rate: 0.1,  best_distance: 8507.821304677078, time: 5.166150808334351
+
+alpha: 9, beta: 10, evaporation_rate: 0.1,  best_distance: 8645.456428992464, time: 5.317842245101929
+alpha: 9, beta: 10, evaporation_rate: 0.1,  best_distance: 8184.151204456732, time: 5.166227102279663
+alpha: 9, beta: 10, evaporation_rate: 0.1,  best_distance: 8373.487084225142, time: 5.1338584423065186
+
+alpha: 9, beta: 11, evaporation_rate: 0.1,  best_distance: 8503.640375523795, time: 5.307982444763184
+alpha: 9, beta: 11, evaporation_rate: 0.1,  best_distance: 8510.875224067364, time: 5.167011260986328
+alpha: 9, beta: 11, evaporation_rate: 0.1,  best_distance: 8266.00622513324, time: 5.166402101516724
+
+alpha: 9, beta: 12, evaporation_rate: 0.1,  best_distance: 8519.776463703445, time: 5.30775785446167
+alpha: 9, beta: 12, evaporation_rate: 0.1,  best_distance: 8256.569675346142, time: 5.1630778312683105
+alpha: 9, beta: 12, evaporation_rate: 0.1,  best_distance: 8468.866198521777, time: 5.163943529129028
+
+alpha: 9, beta: 13, evaporation_rate: 0.1,  best_distance: 8135.243301067425, time: 5.384967803955078
+alpha: 9, beta: 13, evaporation_rate: 0.1,  best_distance: 8587.719694313177, time: 5.290794849395752
+alpha: 9, beta: 13, evaporation_rate: 0.1,  best_distance: 8151.390840448136, time: 5.1901445388793945
+
+alpha: 9, beta: 14, evaporation_rate: 0.1,  best_distance: 8286.909670003035, time: 5.312768459320068
+alpha: 9, beta: 14, evaporation_rate: 0.1,  best_distance: 8607.972821612118, time: 5.148068189620972
+alpha: 9, beta: 14, evaporation_rate: 0.1,  best_distance: 8204.49825617389, time: 5.128980875015259
+
+alpha: 9, beta: 15, evaporation_rate: 0.1,  best_distance: 8566.647428499433, time: 5.336325168609619
+alpha: 9, beta: 15, evaporation_rate: 0.1,  best_distance: 8731.41202138262, time: 5.195509672164917
+alpha: 9, beta: 15, evaporation_rate: 0.1,  best_distance: 8387.497333642397, time: 5.1453869342803955
+
+alpha: 9, beta: 16, evaporation_rate: 0.1,  best_distance: 8467.446398589307, time: 5.345952033996582
+alpha: 9, beta: 16, evaporation_rate: 0.1,  best_distance: 8775.98790462735, time: 5.227201223373413
+alpha: 9, beta: 16, evaporation_rate: 0.1,  best_distance: 8728.001745555925, time: 5.144977569580078
+
+alpha: 9, beta: 17, evaporation_rate: 0.1,  best_distance: 8179.903417589032, time: 5.332420110702515
+alpha: 9, beta: 17, evaporation_rate: 0.1,  best_distance: 8682.443398478033, time: 5.181138515472412
+alpha: 9, beta: 17, evaporation_rate: 0.1,  best_distance: 8728.001745555925, time: 5.149540662765503
+
+alpha: 9, beta: 18, evaporation_rate: 0.1,  best_distance: 8682.519274576181, time: 5.299497604370117
+alpha: 9, beta: 18, evaporation_rate: 0.1,  best_distance: 8612.335268788984, time: 5.165855407714844
+alpha: 9, beta: 18, evaporation_rate: 0.1,  best_distance: 8209.653945716329, time: 5.3370585441589355
+
+alpha: 9, beta: 19, evaporation_rate: 0.1,  best_distance: 8113.953499491083, time: 6.968574047088623
+alpha: 9, beta: 19, evaporation_rate: 0.1,  best_distance: 8171.484651859295, time: 5.197082042694092
+alpha: 9, beta: 19, evaporation_rate: 0.1,  best_distance: 8656.855348966761, time: 4.975686550140381
+
+alpha: 9, beta: 20, evaporation_rate: 0.1,  best_distance: 8660.29587530225, time: 5.259276390075684
+alpha: 9, beta: 20, evaporation_rate: 0.1,  best_distance: 8507.350765535535, time: 4.993494987487793
+alpha: 9, beta: 20, evaporation_rate: 0.1,  best_distance: 8496.881979409618, time: 4.971230983734131
+
+alpha: 10, beta: 1, evaporation_rate: 0.1,  best_distance: 9592.756281916683, time: 5.215250730514526
+alpha: 10, beta: 1, evaporation_rate: 0.1,  best_distance: 9057.281719015504, time: 4.938230037689209
+alpha: 10, beta: 1, evaporation_rate: 0.1,  best_distance: 9051.613112188497, time: 4.971540451049805
+
+alpha: 10, beta: 2, evaporation_rate: 0.1,  best_distance: 8764.663215758572, time: 5.141435623168945
+alpha: 10, beta: 2, evaporation_rate: 0.1,  best_distance: 8683.684694889787, time: 4.975005865097046
+alpha: 10, beta: 2, evaporation_rate: 0.1,  best_distance: 8440.05401924693, time: 4.9607603549957275
+
+alpha: 10, beta: 3, evaporation_rate: 0.1,  best_distance: 9068.245173260619, time: 5.194484710693359
+alpha: 10, beta: 3, evaporation_rate: 0.1,  best_distance: 8782.047937816686, time: 4.959803342819214
+alpha: 10, beta: 3, evaporation_rate: 0.1,  best_distance: 8711.285870061523, time: 4.974357604980469
+
+alpha: 10, beta: 4, evaporation_rate: 0.1,  best_distance: 8729.045426381146, time: 5.146033048629761
+alpha: 10, beta: 4, evaporation_rate: 0.1,  best_distance: 8587.683940166988, time: 5.008059501647949
+alpha: 10, beta: 4, evaporation_rate: 0.1,  best_distance: 8325.064603542201, time: 4.955382347106934
+
+alpha: 10, beta: 5, evaporation_rate: 0.1,  best_distance: 8650.690754827132, time: 5.169049024581909
+alpha: 10, beta: 5, evaporation_rate: 0.1,  best_distance: 8564.999043779995, time: 4.9711902141571045
+alpha: 10, beta: 5, evaporation_rate: 0.1,  best_distance: 8394.442639743194, time: 5.0183703899383545
+
+alpha: 10, beta: 6, evaporation_rate: 0.1,  best_distance: 8340.710202181495, time: 5.179530620574951
+alpha: 10, beta: 6, evaporation_rate: 0.1,  best_distance: 8520.01150848026, time: 4.97306752204895
+alpha: 10, beta: 6, evaporation_rate: 0.1,  best_distance: 8391.447800913622, time: 4.956132888793945
+
+alpha: 10, beta: 7, evaporation_rate: 0.1,  best_distance: 8427.037441962198, time: 5.250148057937622
+alpha: 10, beta: 7, evaporation_rate: 0.1,  best_distance: 8134.224844678055, time: 4.988215446472168
+alpha: 10, beta: 7, evaporation_rate: 0.1,  best_distance: 8181.88255650618, time: 4.957239151000977
+
+alpha: 10, beta: 8, evaporation_rate: 0.1,  best_distance: 8279.576618532428, time: 5.142644643783569
+alpha: 10, beta: 8, evaporation_rate: 0.1,  best_distance: 8289.40552543832, time: 5.000399827957153
+alpha: 10, beta: 8, evaporation_rate: 0.1,  best_distance: 8586.16934800171, time: 4.958410978317261
+
+alpha: 10, beta: 9, evaporation_rate: 0.1,  best_distance: 8439.776754067781, time: 5.226994514465332
+alpha: 10, beta: 9, evaporation_rate: 0.1,  best_distance: 8451.426212994369, time: 4.995465278625488
+alpha: 10, beta: 9, evaporation_rate: 0.1,  best_distance: 8175.869569828231, time: 4.960169076919556
+
+alpha: 10, beta: 10, evaporation_rate: 0.1,  best_distance: 8164.079848846085, time: 5.146340608596802
+alpha: 10, beta: 10, evaporation_rate: 0.1,  best_distance: 8325.84094994617, time: 4.9929423332214355
+alpha: 10, beta: 10, evaporation_rate: 0.1,  best_distance: 8380.618291658697, time: 4.993144750595093
+
+alpha: 10, beta: 11, evaporation_rate: 0.1,  best_distance: 8091.878582463129, time: 5.3266520500183105
+alpha: 10, beta: 11, evaporation_rate: 0.1,  best_distance: 8500.470026727233, time: 5.181179523468018
+alpha: 10, beta: 11, evaporation_rate: 0.1,  best_distance: 8177.893116906982, time: 5.131673336029053
+
+alpha: 10, beta: 12, evaporation_rate: 0.1,  best_distance: 8034.093448017395, time: 5.320737600326538
+alpha: 10, beta: 12, evaporation_rate: 0.1,  best_distance: 8241.61863049628, time: 5.397633790969849
+alpha: 10, beta: 12, evaporation_rate: 0.1,  best_distance: 8338.447933034591, time: 5.338463068008423
+
+alpha: 10, beta: 13, evaporation_rate: 0.1,  best_distance: 8196.770920254388, time: 5.321191787719727
+alpha: 10, beta: 13, evaporation_rate: 0.1,  best_distance: 8420.048628499313, time: 5.240533351898193
+alpha: 10, beta: 13, evaporation_rate: 0.1,  best_distance: 8598.612835220145, time: 5.1616294384002686
+
+alpha: 10, beta: 14, evaporation_rate: 0.1,  best_distance: 8100.018902823253, time: 5.350031614303589
+alpha: 10, beta: 14, evaporation_rate: 0.1,  best_distance: 8133.035984131764, time: 5.1818623542785645
+alpha: 10, beta: 14, evaporation_rate: 0.1,  best_distance: 8628.05268015093, time: 5.227753639221191
+
+alpha: 10, beta: 15, evaporation_rate: 0.1,  best_distance: 8641.555379862863, time: 5.903966188430786
+alpha: 10, beta: 15, evaporation_rate: 0.1,  best_distance: 8546.89924784609, time: 5.19888710975647
+alpha: 10, beta: 15, evaporation_rate: 0.1,  best_distance: 8277.790191649867, time: 5.135396957397461
+
+alpha: 10, beta: 16, evaporation_rate: 0.1,  best_distance: 8390.998812523621, time: 5.326028347015381
+alpha: 10, beta: 16, evaporation_rate: 0.1,  best_distance: 8279.97234701913, time: 5.161686897277832
+alpha: 10, beta: 16, evaporation_rate: 0.1,  best_distance: 8463.218614094016, time: 5.19520378112793
+
+alpha: 10, beta: 17, evaporation_rate: 0.1,  best_distance: 8229.908981265535, time: 5.605762243270874
+alpha: 10, beta: 17, evaporation_rate: 0.1,  best_distance: 8474.052164530018, time: 5.151828289031982
+alpha: 10, beta: 17, evaporation_rate: 0.1,  best_distance: 8251.67439891223, time: 5.150563955307007
+
+alpha: 10, beta: 18, evaporation_rate: 0.1,  best_distance: 8757.094922884158, time: 5.351975202560425
+alpha: 10, beta: 18, evaporation_rate: 0.1,  best_distance: 8731.41202138262, time: 5.3652870655059814
+alpha: 10, beta: 18, evaporation_rate: 0.1,  best_distance: 8277.790191649867, time: 6.030027866363525
+
+alpha: 10, beta: 19, evaporation_rate: 0.1,  best_distance: 8656.855348966761, time: 5.316118240356445
+alpha: 10, beta: 19, evaporation_rate: 0.1,  best_distance: 8507.083442316722, time: 7.36235499382019
+alpha: 10, beta: 19, evaporation_rate: 0.1,  best_distance: 8739.068714881638, time: 4.0496790409088135
+
+alpha: 10, beta: 20, evaporation_rate: 0.1,  best_distance: 8267.18154443457, time: 5.030942678451538
+alpha: 10, beta: 20, evaporation_rate: 0.1,  best_distance: 8419.493591872188, time: 5.849165916442871
+alpha: 10, beta: 20, evaporation_rate: 0.1,  best_distance: 8510.695968766722, time: 6.60543966293335
+
+alpha: 11, beta: 1, evaporation_rate: 0.1,  best_distance: 9148.915684504065, time: 6.853408098220825
+alpha: 11, beta: 1, evaporation_rate: 0.1,  best_distance: 8860.074158386575, time: 5.66666841506958
+alpha: 11, beta: 1, evaporation_rate: 0.1,  best_distance: 8850.658272202822, time: 4.9217209815979
+
+alpha: 11, beta: 2, evaporation_rate: 0.1,  best_distance: 9094.96796626354, time: 5.148403644561768
+alpha: 11, beta: 2, evaporation_rate: 0.1,  best_distance: 8911.06131810305, time: 4.999725341796875
+alpha: 11, beta: 2, evaporation_rate: 0.1,  best_distance: 8411.555990578185, time: 4.998788356781006
+
+alpha: 11, beta: 3, evaporation_rate: 0.1,  best_distance: 8978.054565823857, time: 5.141649484634399
+alpha: 11, beta: 3, evaporation_rate: 0.1,  best_distance: 8806.462412145085, time: 5.01415491104126
+alpha: 11, beta: 3, evaporation_rate: 0.1,  best_distance: 8742.646914276751, time: 4.968210458755493
+
+alpha: 11, beta: 4, evaporation_rate: 0.1,  best_distance: 8297.564298258849, time: 5.228966236114502
+alpha: 11, beta: 4, evaporation_rate: 0.1,  best_distance: 8684.865432918497, time: 5.014359474182129
+alpha: 11, beta: 4, evaporation_rate: 0.1,  best_distance: 8661.724891041213, time: 4.939100980758667
+
+alpha: 11, beta: 5, evaporation_rate: 0.1,  best_distance: 8617.145448921328, time: 5.156492233276367
+alpha: 11, beta: 5, evaporation_rate: 0.1,  best_distance: 8632.224430790178, time: 4.9673988819122314
+alpha: 11, beta: 5, evaporation_rate: 0.1,  best_distance: 8508.876851529812, time: 4.936396360397339
+
+alpha: 11, beta: 6, evaporation_rate: 0.1,  best_distance: 8733.463145229754, time: 5.1412129402160645
+alpha: 11, beta: 6, evaporation_rate: 0.1,  best_distance: 8344.163187607111, time: 4.999150037765503
+alpha: 11, beta: 6, evaporation_rate: 0.1,  best_distance: 8528.542752864761, time: 4.934471130371094
+
+alpha: 11, beta: 7, evaporation_rate: 0.1,  best_distance: 8474.56502336916, time: 5.139364242553711
+alpha: 11, beta: 7, evaporation_rate: 0.1,  best_distance: 8496.468896056344, time: 5.001312732696533
+alpha: 11, beta: 7, evaporation_rate: 0.1,  best_distance: 8221.590873894133, time: 4.937779426574707
+
+alpha: 11, beta: 8, evaporation_rate: 0.1,  best_distance: 8619.377523487587, time: 5.168420076370239
+alpha: 11, beta: 8, evaporation_rate: 0.1,  best_distance: 8381.37721325889, time: 4.999389410018921
+alpha: 11, beta: 8, evaporation_rate: 0.1,  best_distance: 8457.633426368728, time: 4.968315362930298
+
+alpha: 11, beta: 9, evaporation_rate: 0.1,  best_distance: 8446.592934801401, time: 5.145303726196289
+alpha: 11, beta: 9, evaporation_rate: 0.1,  best_distance: 8379.682665546066, time: 4.968255996704102
+alpha: 11, beta: 9, evaporation_rate: 0.1,  best_distance: 8429.207474667202, time: 4.951157569885254
+
+alpha: 11, beta: 10, evaporation_rate: 0.1,  best_distance: 8336.012965986381, time: 5.1141438484191895
+alpha: 11, beta: 10, evaporation_rate: 0.1,  best_distance: 8237.681740244978, time: 4.949965953826904
+alpha: 11, beta: 10, evaporation_rate: 0.1,  best_distance: 8393.440261276859, time: 4.9506425857543945
+
+alpha: 11, beta: 11, evaporation_rate: 0.1,  best_distance: 8558.646190425574, time: 5.27569580078125
+alpha: 11, beta: 11, evaporation_rate: 0.1,  best_distance: 8328.799063147586, time: 6.2417356967926025
+alpha: 11, beta: 11, evaporation_rate: 0.1,  best_distance: 8676.8790582354, time: 5.096056699752808
+
+alpha: 11, beta: 12, evaporation_rate: 0.1,  best_distance: 8484.07414223765, time: 5.156663179397583
+alpha: 11, beta: 12, evaporation_rate: 0.1,  best_distance: 8549.710413517325, time: 5.079908132553101
+alpha: 11, beta: 12, evaporation_rate: 0.1,  best_distance: 8520.168031834963, time: 5.000266075134277
+
+alpha: 11, beta: 13, evaporation_rate: 0.1,  best_distance: 8081.8931606838205, time: 5.143528938293457
+alpha: 11, beta: 13, evaporation_rate: 0.1,  best_distance: 8546.89924784609, time: 5.1094324588775635
+alpha: 11, beta: 13, evaporation_rate: 0.1,  best_distance: 8148.0782682188, time: 5.169273376464844
+
+alpha: 11, beta: 14, evaporation_rate: 0.1,  best_distance: 8066.52199088528, time: 5.372128963470459
+alpha: 11, beta: 14, evaporation_rate: 0.1,  best_distance: 8027.869890205634, time: 5.141819477081299
+alpha: 11, beta: 14, evaporation_rate: 0.1,  best_distance: 8247.214804516014, time: 5.123437166213989
+
+alpha: 11, beta: 15, evaporation_rate: 0.1,  best_distance: 8197.168222269946, time: 5.29728889465332
+alpha: 11, beta: 15, evaporation_rate: 0.1,  best_distance: 8483.053115407396, time: 5.142225503921509
+alpha: 11, beta: 15, evaporation_rate: 0.1,  best_distance: 8396.167860000072, time: 5.1442954540252686
+
+alpha: 11, beta: 16, evaporation_rate: 0.1,  best_distance: 8645.820075798982, time: 5.291696786880493
+alpha: 11, beta: 16, evaporation_rate: 0.1,  best_distance: 8389.860834924719, time: 5.188636064529419
+alpha: 11, beta: 16, evaporation_rate: 0.1,  best_distance: 8668.868559556136, time: 5.125534296035767
+
+alpha: 11, beta: 17, evaporation_rate: 0.1,  best_distance: 8689.553077828394, time: 5.799994707107544
+alpha: 11, beta: 17, evaporation_rate: 0.1,  best_distance: 8704.01617570835, time: 5.157313346862793
+alpha: 11, beta: 17, evaporation_rate: 0.1,  best_distance: 8556.105935941365, time: 5.174072504043579
+
+alpha: 11, beta: 18, evaporation_rate: 0.1,  best_distance: 8072.082019538849, time: 5.320351839065552
+alpha: 11, beta: 18, evaporation_rate: 0.1,  best_distance: 8230.952258631161, time: 5.1556665897369385
+alpha: 11, beta: 18, evaporation_rate: 0.1,  best_distance: 8718.646255156626, time: 5.140151262283325
+
+alpha: 11, beta: 19, evaporation_rate: 0.1,  best_distance: 8688.616177776108, time: 6.168832302093506
+alpha: 11, beta: 19, evaporation_rate: 0.1,  best_distance: 8562.303191744779, time: 5.129744291305542
+alpha: 11, beta: 19, evaporation_rate: 0.1,  best_distance: 8723.31410064603, time: 5.063422918319702
+
+alpha: 11, beta: 20, evaporation_rate: 0.1,  best_distance: 8623.808130191019, time: 5.136820077896118
+alpha: 11, beta: 20, evaporation_rate: 0.1,  best_distance: 8735.776966580472, time: 5.1425840854644775
+alpha: 11, beta: 20, evaporation_rate: 0.1,  best_distance: 8656.855348966761, time: 5.802439451217651
+
+alpha: 12, beta: 1, evaporation_rate: 0.1,  best_distance: 9386.931977087817, time: 5.1060357093811035
+alpha: 12, beta: 1, evaporation_rate: 0.1,  best_distance: 9243.922739823363, time: 5.8819286823272705
+alpha: 12, beta: 1, evaporation_rate: 0.1,  best_distance: 9636.552498108182, time: 7.76090669631958
+
+alpha: 12, beta: 2, evaporation_rate: 0.1,  best_distance: 8357.136352222924, time: 7.938287973403931
+alpha: 12, beta: 2, evaporation_rate: 0.1,  best_distance: 8696.01168300817, time: 7.763172626495361
+alpha: 12, beta: 2, evaporation_rate: 0.1,  best_distance: 8680.768653841293, time: 7.82312536239624
+
+alpha: 12, beta: 3, evaporation_rate: 0.1,  best_distance: 8707.138709246523, time: 7.944254636764526
+alpha: 12, beta: 3, evaporation_rate: 0.1,  best_distance: 8772.261793575295, time: 7.758576393127441
+alpha: 12, beta: 3, evaporation_rate: 0.1,  best_distance: 8596.40847118458, time: 7.745065212249756
+
+alpha: 12, beta: 4, evaporation_rate: 0.1,  best_distance: 8772.991000613823, time: 7.923853158950806
+alpha: 12, beta: 4, evaporation_rate: 0.1,  best_distance: 8540.528728253717, time: 7.754396915435791
+alpha: 12, beta: 4, evaporation_rate: 0.1,  best_distance: 8465.883367271861, time: 7.760684013366699
+
+alpha: 12, beta: 5, evaporation_rate: 0.1,  best_distance: 8792.683712522601, time: 7.895622968673706
+alpha: 12, beta: 5, evaporation_rate: 0.1,  best_distance: 8523.5002462309, time: 7.890252113342285
+alpha: 12, beta: 5, evaporation_rate: 0.1,  best_distance: 8515.5899383098, time: 7.7930145263671875
+
+alpha: 12, beta: 6, evaporation_rate: 0.1,  best_distance: 8403.058384769052, time: 7.988634347915649
+alpha: 12, beta: 6, evaporation_rate: 0.1,  best_distance: 8456.31269120379, time: 7.932474136352539
+alpha: 12, beta: 6, evaporation_rate: 0.1,  best_distance: 8260.780251132248, time: 8.030634641647339
+
+alpha: 12, beta: 7, evaporation_rate: 0.1,  best_distance: 8511.90569544543, time: 8.158978462219238
+alpha: 12, beta: 7, evaporation_rate: 0.1,  best_distance: 8380.751128825812, time: 8.134413480758667
+alpha: 12, beta: 7, evaporation_rate: 0.1,  best_distance: 8454.488234678622, time: 8.217382669448853
+
+alpha: 12, beta: 8, evaporation_rate: 0.1,  best_distance: 8406.401109977822, time: 8.220793008804321
+alpha: 12, beta: 8, evaporation_rate: 0.1,  best_distance: 8132.923961054022, time: 8.03988528251648
+alpha: 12, beta: 8, evaporation_rate: 0.1,  best_distance: 8150.245623504388, time: 8.027843713760376
+
+alpha: 12, beta: 9, evaporation_rate: 0.1,  best_distance: 8339.112285006726, time: 8.202216386795044
+alpha: 12, beta: 9, evaporation_rate: 0.1,  best_distance: 8378.479506879336, time: 8.026914596557617
+alpha: 12, beta: 9, evaporation_rate: 0.1,  best_distance: 8550.338043583974, time: 8.009108543395996
+
+alpha: 12, beta: 10, evaporation_rate: 0.1,  best_distance: 8041.724009525425, time: 7.8651227951049805
+alpha: 12, beta: 10, evaporation_rate: 0.1,  best_distance: 8530.097926806473, time: 3.3872199058532715
+alpha: 12, beta: 10, evaporation_rate: 0.1,  best_distance: 8296.580711221915, time: 5.267029285430908
+
+alpha: 12, beta: 11, evaporation_rate: 0.1,  best_distance: 8139.476234122521, time: 5.406177759170532
+alpha: 12, beta: 11, evaporation_rate: 0.1,  best_distance: 8050.603439079219, time: 5.173341989517212
+alpha: 12, beta: 11, evaporation_rate: 0.1,  best_distance: 8075.801141111095, time: 5.124966621398926
+
+alpha: 12, beta: 12, evaporation_rate: 0.1,  best_distance: 8203.245480668642, time: 5.324625492095947
+alpha: 12, beta: 12, evaporation_rate: 0.1,  best_distance: 8203.12939245066, time: 5.238698959350586
+alpha: 12, beta: 12, evaporation_rate: 0.1,  best_distance: 8129.664180889098, time: 5.1391379833221436
+
+alpha: 12, beta: 13, evaporation_rate: 0.1,  best_distance: 8669.895650716433, time: 5.33938455581665
+alpha: 12, beta: 13, evaporation_rate: 0.1,  best_distance: 8415.193173892732, time: 5.157511234283447
+alpha: 12, beta: 13, evaporation_rate: 0.1,  best_distance: 8113.953499491083, time: 5.250629186630249
+
+alpha: 12, beta: 14, evaporation_rate: 0.1,  best_distance: 8253.047723805641, time: 5.388123273849487
+alpha: 12, beta: 14, evaporation_rate: 0.1,  best_distance: 8174.229362655885, time: 5.158379077911377
+alpha: 12, beta: 14, evaporation_rate: 0.1,  best_distance: 8204.267193144176, time: 5.15446138381958
+
+alpha: 12, beta: 15, evaporation_rate: 0.1,  best_distance: 8181.5808567624035, time: 5.329172849655151
+alpha: 12, beta: 15, evaporation_rate: 0.1,  best_distance: 8504.126398448781, time: 5.1882641315460205
+alpha: 12, beta: 15, evaporation_rate: 0.1,  best_distance: 8498.89760746473, time: 5.1386964321136475
+
+alpha: 12, beta: 16, evaporation_rate: 0.1,  best_distance: 8704.01617570835, time: 5.417003154754639
+alpha: 12, beta: 16, evaporation_rate: 0.1,  best_distance: 8753.248126955361, time: 12.141878128051758
+alpha: 12, beta: 16, evaporation_rate: 0.1,  best_distance: 8409.16033576129, time: 14.029063940048218
+
+alpha: 12, beta: 17, evaporation_rate: 0.1,  best_distance: 8072.159628532365, time: 10.763575077056885
+alpha: 12, beta: 17, evaporation_rate: 0.1,  best_distance: 8656.348768224007, time: 8.838212966918945
+alpha: 12, beta: 17, evaporation_rate: 0.1,  best_distance: 8659.999565954708, time: 10.1820228099823
+
+alpha: 12, beta: 18, evaporation_rate: 0.1,  best_distance: 8728.001745555925, time: 13.232975721359253
+alpha: 12, beta: 18, evaporation_rate: 0.1,  best_distance: 8701.239183618076, time: 11.040770053863525
+alpha: 12, beta: 18, evaporation_rate: 0.1,  best_distance: 8728.001745555925, time: 10.620099782943726
+
+alpha: 12, beta: 19, evaporation_rate: 0.1,  best_distance: 8705.92682852797, time: 11.295366048812866
+alpha: 12, beta: 19, evaporation_rate: 0.1,  best_distance: 8689.849387175936, time: 8.528533458709717
+alpha: 12, beta: 19, evaporation_rate: 0.1,  best_distance: 8750.407083965973, time: 9.260118246078491
+
+alpha: 12, beta: 20, evaporation_rate: 0.1,  best_distance: 8171.484651859295, time: 10.46914792060852
+alpha: 12, beta: 20, evaporation_rate: 0.1,  best_distance: 8788.932183817533, time: 10.064318418502808
+alpha: 12, beta: 20, evaporation_rate: 0.1,  best_distance: 8686.967084581624, time: 9.731311798095703
+
+alpha: 13, beta: 1, evaporation_rate: 0.1,  best_distance: 10071.756876795624, time: 9.594565153121948
+alpha: 13, beta: 1, evaporation_rate: 0.1,  best_distance: 9470.80432728944, time: 5.102928876876831
+alpha: 13, beta: 1, evaporation_rate: 0.1,  best_distance: 8887.995973443203, time: 5.005115747451782
+
+alpha: 13, beta: 2, evaporation_rate: 0.1,  best_distance: 8934.498549212472, time: 5.1205291748046875
+alpha: 13, beta: 2, evaporation_rate: 0.1,  best_distance: 8709.907866076832, time: 5.195763826370239
+alpha: 13, beta: 2, evaporation_rate: 0.1,  best_distance: 8546.248396009798, time: 5.1282572746276855
+
+alpha: 13, beta: 3, evaporation_rate: 0.1,  best_distance: 8690.261299096961, time: 5.356241464614868
+alpha: 13, beta: 3, evaporation_rate: 0.1,  best_distance: 8644.858846562936, time: 5.206559896469116
+alpha: 13, beta: 3, evaporation_rate: 0.1,  best_distance: 8666.18359515671, time: 5.127621173858643
+
+alpha: 13, beta: 4, evaporation_rate: 0.1,  best_distance: 8407.303966350895, time: 5.320905447006226
+alpha: 13, beta: 4, evaporation_rate: 0.1,  best_distance: 7768.698418384338, time: 6.06363844871521
+alpha: 13, beta: 4, evaporation_rate: 0.1,  best_distance: 8258.592075413235, time: 5.059345722198486
+
+alpha: 13, beta: 5, evaporation_rate: 0.1,  best_distance: 8456.834795165207, time: 5.211636543273926
+alpha: 13, beta: 5, evaporation_rate: 0.1,  best_distance: 8635.071140670148, time: 4.9904210567474365
+alpha: 13, beta: 5, evaporation_rate: 0.1,  best_distance: 8516.740329158287, time: 5.040893077850342
+
+alpha: 13, beta: 6, evaporation_rate: 0.1,  best_distance: 8506.826783724131, time: 5.180927753448486
+alpha: 13, beta: 6, evaporation_rate: 0.1,  best_distance: 8382.455489847769, time: 5.008728504180908
+alpha: 13, beta: 6, evaporation_rate: 0.1,  best_distance: 8444.659737648493, time: 4.9621100425720215
+
+alpha: 13, beta: 7, evaporation_rate: 0.1,  best_distance: 8217.511562294987, time: 5.140881061553955
+alpha: 13, beta: 7, evaporation_rate: 0.1,  best_distance: 8200.41528211724, time: 4.995112657546997
+alpha: 13, beta: 7, evaporation_rate: 0.1,  best_distance: 8426.33241069318, time: 4.9757750034332275
+
+alpha: 13, beta: 8, evaporation_rate: 0.1,  best_distance: 8228.18665071978, time: 5.283550024032593
+alpha: 13, beta: 8, evaporation_rate: 0.1,  best_distance: 8174.438883768118, time: 5.004232168197632
+alpha: 13, beta: 8, evaporation_rate: 0.1,  best_distance: 8257.234585079605, time: 4.987678289413452
+
+alpha: 13, beta: 9, evaporation_rate: 0.1,  best_distance: 8117.567057173882, time: 5.154989957809448
+alpha: 13, beta: 9, evaporation_rate: 0.1,  best_distance: 8487.798983422508, time: 4.974246501922607
+alpha: 13, beta: 9, evaporation_rate: 0.1,  best_distance: 8304.586230605555, time: 4.952606678009033
+
+alpha: 13, beta: 10, evaporation_rate: 0.1,  best_distance: 8564.955351104905, time: 5.200132131576538
+alpha: 13, beta: 10, evaporation_rate: 0.1,  best_distance: 8609.564999723816, time: 4.989350318908691
+alpha: 13, beta: 10, evaporation_rate: 0.1,  best_distance: 8294.596480721424, time: 4.962897539138794
+
+alpha: 13, beta: 11, evaporation_rate: 0.1,  best_distance: 8475.798347049831, time: 5.166910886764526
+alpha: 13, beta: 11, evaporation_rate: 0.1,  best_distance: 8573.157537502106, time: 4.979840517044067
+alpha: 13, beta: 11, evaporation_rate: 0.1,  best_distance: 8354.98857611374, time: 5.000602960586548
+
+alpha: 13, beta: 12, evaporation_rate: 0.1,  best_distance: 8553.996171549636, time: 5.219984769821167
+alpha: 13, beta: 12, evaporation_rate: 0.1,  best_distance: 8036.280474995123, time: 5.019742727279663
+alpha: 13, beta: 12, evaporation_rate: 0.1,  best_distance: 8319.406939580496, time: 5.026212692260742
+
+alpha: 13, beta: 13, evaporation_rate: 0.1,  best_distance: 8426.19330319152, time: 5.133174180984497
+alpha: 13, beta: 13, evaporation_rate: 0.1,  best_distance: 8437.965272639729, time: 5.006344318389893
+alpha: 13, beta: 13, evaporation_rate: 0.1,  best_distance: 8044.204854940743, time: 4.957452058792114
+
+alpha: 13, beta: 14, evaporation_rate: 0.1,  best_distance: 8659.999565954708, time: 5.159237861633301
+alpha: 13, beta: 14, evaporation_rate: 0.1,  best_distance: 8656.855348966761, time: 5.00394606590271
+alpha: 13, beta: 14, evaporation_rate: 0.1,  best_distance: 8553.468844371566, time: 5.067643642425537
+
+alpha: 13, beta: 15, evaporation_rate: 0.1,  best_distance: 8546.89924784609, time: 5.1305012702941895
+alpha: 13, beta: 15, evaporation_rate: 0.1,  best_distance: 8513.422264061046, time: 4.990297079086304
+alpha: 13, beta: 15, evaporation_rate: 0.1,  best_distance: 8648.983522357394, time: 4.966601371765137
+
+alpha: 13, beta: 16, evaporation_rate: 0.1,  best_distance: 8656.855348966761, time: 5.187506437301636
+alpha: 13, beta: 16, evaporation_rate: 0.1,  best_distance: 8511.322889840718, time: 4.979096174240112
+alpha: 13, beta: 16, evaporation_rate: 0.1,  best_distance: 8608.805808611345, time: 5.332311391830444
+
+alpha: 13, beta: 17, evaporation_rate: 0.1,  best_distance: 8684.865432918497, time: 5.238387584686279
+alpha: 13, beta: 17, evaporation_rate: 0.1,  best_distance: 8662.460094508451, time: 5.001698970794678
+alpha: 13, beta: 17, evaporation_rate: 0.1,  best_distance: 8660.878353016507, time: 4.969708204269409
+
+alpha: 13, beta: 18, evaporation_rate: 0.1,  best_distance: 8656.855348966761, time: 5.408880710601807
+alpha: 13, beta: 18, evaporation_rate: 0.1,  best_distance: 8587.60503831271, time: 5.132248163223267
+alpha: 13, beta: 18, evaporation_rate: 0.1,  best_distance: 8659.999565954708, time: 5.147188425064087
+
+alpha: 13, beta: 19, evaporation_rate: 0.1,  best_distance: 8564.446895448502, time: 5.2878522872924805
+alpha: 13, beta: 19, evaporation_rate: 0.1,  best_distance: 8658.000084320052, time: 5.248088121414185
+alpha: 13, beta: 19, evaporation_rate: 0.1,  best_distance: 8638.17766628609, time: 5.514759302139282
+
+alpha: 13, beta: 20, evaporation_rate: 0.1,  best_distance: 8656.855348966761, time: 5.406755685806274
+alpha: 13, beta: 20, evaporation_rate: 0.1,  best_distance: 8605.076041142087, time: 5.19272518157959
+alpha: 13, beta: 20, evaporation_rate: 0.1,  best_distance: 8659.999565954708, time: 5.148944854736328
+
+alpha: 14, beta: 1, evaporation_rate: 0.1,  best_distance: 9383.604429314768, time: 5.453120946884155
+alpha: 14, beta: 1, evaporation_rate: 0.1,  best_distance: 8894.736630340893, time: 5.144369840621948
+alpha: 14, beta: 1, evaporation_rate: 0.1,  best_distance: 9261.934959076421, time: 5.1617114543914795
+
+alpha: 14, beta: 2, evaporation_rate: 0.1,  best_distance: 9147.59788782108, time: 5.385199308395386
+alpha: 14, beta: 2, evaporation_rate: 0.1,  best_distance: 8661.88056249272, time: 5.175849437713623
+alpha: 14, beta: 2, evaporation_rate: 0.1,  best_distance: 8799.153939473954, time: 5.14456844329834
+
+alpha: 14, beta: 3, evaporation_rate: 0.1,  best_distance: 8658.690907643288, time: 5.373418807983398
+alpha: 14, beta: 3, evaporation_rate: 0.1,  best_distance: 8640.74811580483, time: 5.172752618789673
+alpha: 14, beta: 3, evaporation_rate: 0.1,  best_distance: 8224.076151490779, time: 5.173491716384888
+
+alpha: 14, beta: 4, evaporation_rate: 0.1,  best_distance: 8504.982257211956, time: 5.405368089675903
+alpha: 14, beta: 4, evaporation_rate: 0.1,  best_distance: 8482.017631437795, time: 5.275701999664307
+alpha: 14, beta: 4, evaporation_rate: 0.1,  best_distance: 8709.529216912568, time: 5.14927864074707
+
+alpha: 14, beta: 5, evaporation_rate: 0.1,  best_distance: 8770.166846833608, time: 5.378114938735962
+alpha: 14, beta: 5, evaporation_rate: 0.1,  best_distance: 8459.941717446185, time: 5.15445613861084
+alpha: 14, beta: 5, evaporation_rate: 0.1,  best_distance: 8429.422941191924, time: 5.133936166763306
+
+alpha: 14, beta: 6, evaporation_rate: 0.1,  best_distance: 8526.018897236743, time: 5.397922992706299
+alpha: 14, beta: 6, evaporation_rate: 0.1,  best_distance: 8431.814228244402, time: 5.161056995391846
+alpha: 14, beta: 6, evaporation_rate: 0.1,  best_distance: 8362.391402939928, time: 5.117373704910278
+
+alpha: 14, beta: 7, evaporation_rate: 0.1,  best_distance: 8209.981518085988, time: 5.51204776763916
+alpha: 14, beta: 7, evaporation_rate: 0.1,  best_distance: 8480.82345260924, time: 5.1925368309021
+alpha: 14, beta: 7, evaporation_rate: 0.1,  best_distance: 8265.263136937381, time: 5.211061716079712
+
+alpha: 14, beta: 8, evaporation_rate: 0.1,  best_distance: 8235.386133154998, time: 5.391386985778809
+alpha: 14, beta: 8, evaporation_rate: 0.1,  best_distance: 8458.262341682117, time: 5.177515506744385
+alpha: 14, beta: 8, evaporation_rate: 0.1,  best_distance: 8424.769946366483, time: 5.145421266555786
+
+alpha: 14, beta: 9, evaporation_rate: 0.1,  best_distance: 8454.991556981266, time: 5.359706163406372
+alpha: 14, beta: 9, evaporation_rate: 0.1,  best_distance: 8182.110377200819, time: 5.178967237472534
+alpha: 14, beta: 9, evaporation_rate: 0.1,  best_distance: 8645.820075798982, time: 5.131793737411499
+
+alpha: 14, beta: 10, evaporation_rate: 0.1,  best_distance: 8237.80092789465, time: 5.411569833755493
+alpha: 14, beta: 10, evaporation_rate: 0.1,  best_distance: 8229.378517634823, time: 5.164016008377075
+alpha: 14, beta: 10, evaporation_rate: 0.1,  best_distance: 8418.073124902297, time: 5.175036668777466
+
+alpha: 14, beta: 11, evaporation_rate: 0.1,  best_distance: 8359.678016653324, time: 5.3609819412231445
+alpha: 14, beta: 11, evaporation_rate: 0.1,  best_distance: 8075.504831763552, time: 5.213005065917969
+alpha: 14, beta: 11, evaporation_rate: 0.1,  best_distance: 8679.15551522752, time: 5.1435465812683105
+
+alpha: 14, beta: 12, evaporation_rate: 0.1,  best_distance: 8213.231013344224, time: 5.411180734634399
+alpha: 14, beta: 12, evaporation_rate: 0.1,  best_distance: 8633.585985272646, time: 5.289931535720825
+alpha: 14, beta: 12, evaporation_rate: 0.1,  best_distance: 8621.060357222157, time: 5.690078258514404
+
+alpha: 14, beta: 13, evaporation_rate: 0.1,  best_distance: 8584.420189711254, time: 6.159122705459595
+alpha: 14, beta: 13, evaporation_rate: 0.1,  best_distance: 8045.896123105423, time: 6.084804534912109
+alpha: 14, beta: 13, evaporation_rate: 0.1,  best_distance: 8533.674522468877, time: 6.248982667922974
+
+alpha: 14, beta: 14, evaporation_rate: 0.1,  best_distance: 8589.606390204575, time: 5.88782811164856
+alpha: 14, beta: 14, evaporation_rate: 0.1,  best_distance: 8592.204370172458, time: 5.815926551818848
+alpha: 14, beta: 14, evaporation_rate: 0.1,  best_distance: 8368.30728472196, time: 5.470696926116943
+
+alpha: 14, beta: 15, evaporation_rate: 0.1,  best_distance: 8588.586904454798, time: 7.448548793792725
+alpha: 14, beta: 15, evaporation_rate: 0.1,  best_distance: 8520.500149148358, time: 7.755942344665527
+alpha: 14, beta: 15, evaporation_rate: 0.1,  best_distance: 8739.068714881638, time: 5.2990710735321045
+
+alpha: 14, beta: 16, evaporation_rate: 0.1,  best_distance: 8253.047723805641, time: 5.667055606842041
+alpha: 14, beta: 16, evaporation_rate: 0.1,  best_distance: 8659.999565954708, time: 5.187934637069702
+alpha: 14, beta: 16, evaporation_rate: 0.1,  best_distance: 8575.63934935257, time: 5.1604673862457275
+
+alpha: 14, beta: 17, evaporation_rate: 0.1,  best_distance: 8736.220807241234, time: 5.403918027877808
+alpha: 14, beta: 17, evaporation_rate: 0.1,  best_distance: 8542.575066176312, time: 5.186716556549072
+alpha: 14, beta: 17, evaporation_rate: 0.1,  best_distance: 8689.553077828394, time: 5.202928304672241
+
+alpha: 14, beta: 18, evaporation_rate: 0.1,  best_distance: 8689.553077828394, time: 5.3760154247283936
+alpha: 14, beta: 18, evaporation_rate: 0.1,  best_distance: 8634.977219569766, time: 5.391155242919922
+alpha: 14, beta: 18, evaporation_rate: 0.1,  best_distance: 8735.020005856204, time: 5.140209674835205
+
+alpha: 14, beta: 19, evaporation_rate: 0.1,  best_distance: 8689.553077828394, time: 5.422759294509888
+alpha: 14, beta: 19, evaporation_rate: 0.1,  best_distance: 8581.92062328747, time: 5.173445224761963
+alpha: 14, beta: 19, evaporation_rate: 0.1,  best_distance: 8734.410210603612, time: 5.158515691757202
+
+alpha: 14, beta: 20, evaporation_rate: 0.1,  best_distance: 8721.732359154086, time: 5.374776363372803
+alpha: 14, beta: 20, evaporation_rate: 0.1,  best_distance: 8659.999565954708, time: 5.202277660369873
+alpha: 14, beta: 20, evaporation_rate: 0.1,  best_distance: 8585.34791557362, time: 5.156006336212158
+
+alpha: 15, beta: 1, evaporation_rate: 0.1,  best_distance: 9625.275714978807, time: 5.3614747524261475
+alpha: 15, beta: 1, evaporation_rate: 0.1,  best_distance: 9515.39312935714, time: 5.123951435089111
+alpha: 15, beta: 1, evaporation_rate: 0.1,  best_distance: 8928.368090346909, time: 5.187845230102539
+
+alpha: 15, beta: 2, evaporation_rate: 0.1,  best_distance: 9014.407489063144, time: 5.391767978668213
+alpha: 15, beta: 2, evaporation_rate: 0.1,  best_distance: 8948.111550276233, time: 5.218251466751099
+alpha: 15, beta: 2, evaporation_rate: 0.1,  best_distance: 8798.970445094841, time: 5.157073497772217
+
+alpha: 15, beta: 3, evaporation_rate: 0.1,  best_distance: 8533.674522468877, time: 5.484509468078613
+alpha: 15, beta: 3, evaporation_rate: 0.1,  best_distance: 8518.813533105662, time: 5.190237760543823
+alpha: 15, beta: 3, evaporation_rate: 0.1,  best_distance: 8656.81717980155, time: 5.14014196395874
+
+alpha: 15, beta: 4, evaporation_rate: 0.1,  best_distance: 8497.491799858788, time: 5.406644105911255
+alpha: 15, beta: 4, evaporation_rate: 0.1,  best_distance: 8691.864676403542, time: 5.171953916549683
+alpha: 15, beta: 4, evaporation_rate: 0.1,  best_distance: 8492.869206274407, time: 5.143448114395142
+
+alpha: 15, beta: 5, evaporation_rate: 0.1,  best_distance: 8503.10982845234, time: 5.373371839523315
+alpha: 15, beta: 5, evaporation_rate: 0.1,  best_distance: 8500.55911352463, time: 5.156763553619385
+alpha: 15, beta: 5, evaporation_rate: 0.1,  best_distance: 8505.83743027506, time: 5.157948732376099
+
+alpha: 15, beta: 6, evaporation_rate: 0.1,  best_distance: 8597.351554078385, time: 5.404839277267456
+alpha: 15, beta: 6, evaporation_rate: 0.1,  best_distance: 8408.310472472842, time: 5.218258380889893
+alpha: 15, beta: 6, evaporation_rate: 0.1,  best_distance: 8543.53050200478, time: 5.145053863525391
+
+alpha: 15, beta: 7, evaporation_rate: 0.1,  best_distance: 8077.795503549321, time: 5.358925819396973
+alpha: 15, beta: 7, evaporation_rate: 0.1,  best_distance: 8290.115555218275, time: 5.171610116958618
+alpha: 15, beta: 7, evaporation_rate: 0.1,  best_distance: 8095.723157846561, time: 5.139845848083496
+
+alpha: 15, beta: 8, evaporation_rate: 0.1,  best_distance: 8446.035233536373, time: 5.414927005767822
+alpha: 15, beta: 8, evaporation_rate: 0.1,  best_distance: 8259.728134849516, time: 5.20314359664917
+alpha: 15, beta: 8, evaporation_rate: 0.1,  best_distance: 8202.324328950634, time: 5.156280517578125
+
+alpha: 15, beta: 9, evaporation_rate: 0.1,  best_distance: 8437.642331838137, time: 5.400416612625122
+alpha: 15, beta: 9, evaporation_rate: 0.1,  best_distance: 8708.02392754058, time: 5.172040700912476
+alpha: 15, beta: 9, evaporation_rate: 0.1,  best_distance: 8402.662428682162, time: 5.204246520996094
+
+alpha: 15, beta: 10, evaporation_rate: 0.1,  best_distance: 8128.228912803132, time: 5.373349189758301
+alpha: 15, beta: 10, evaporation_rate: 0.1,  best_distance: 8359.913834599485, time: 5.262938022613525
+alpha: 15, beta: 10, evaporation_rate: 0.1,  best_distance: 8205.690360533856, time: 5.160288333892822
+
+alpha: 15, beta: 11, evaporation_rate: 0.1,  best_distance: 8496.259942413966, time: 5.470742225646973
+alpha: 15, beta: 11, evaporation_rate: 0.1,  best_distance: 8322.352712226244, time: 5.5636045932769775
+alpha: 15, beta: 11, evaporation_rate: 0.1,  best_distance: 8388.65325916589, time: 4.999040126800537
+
+alpha: 15, beta: 12, evaporation_rate: 0.1,  best_distance: 8171.484651859295, time: 5.329470634460449
+alpha: 15, beta: 12, evaporation_rate: 0.1,  best_distance: 8299.190769198072, time: 5.015977144241333
+alpha: 15, beta: 12, evaporation_rate: 0.1,  best_distance: 8200.753601982367, time: 4.978236198425293
+
+alpha: 15, beta: 13, evaporation_rate: 0.1,  best_distance: 8473.512115978956, time: 5.240899085998535
+alpha: 15, beta: 13, evaporation_rate: 0.1,  best_distance: 8538.68391730727, time: 4.9986653327941895
+alpha: 15, beta: 13, evaporation_rate: 0.1,  best_distance: 8439.776754067781, time: 5.016264200210571
+
+alpha: 15, beta: 14, evaporation_rate: 0.1,  best_distance: 8655.372757834615, time: 5.267170429229736
+alpha: 15, beta: 14, evaporation_rate: 0.1,  best_distance: 8656.526519879533, time: 5.035052061080933
+alpha: 15, beta: 14, evaporation_rate: 0.1,  best_distance: 8144.969842614471, time: 5.388235807418823
+
+alpha: 15, beta: 15, evaporation_rate: 0.1,  best_distance: 8659.999565954708, time: 6.0791826248168945
+alpha: 15, beta: 15, evaporation_rate: 0.1,  best_distance: 8404.178957590004, time: 5.068392038345337
+alpha: 15, beta: 15, evaporation_rate: 0.1,  best_distance: 8099.848263865099, time: 5.552375793457031
+
+alpha: 15, beta: 16, evaporation_rate: 0.1,  best_distance: 8187.575475038404, time: 7.916296482086182
+alpha: 15, beta: 16, evaporation_rate: 0.1,  best_distance: 8096.029060615164, time: 7.754871129989624
+alpha: 15, beta: 16, evaporation_rate: 0.1,  best_distance: 8316.238859377398, time: 8.016225099563599
+
+alpha: 15, beta: 17, evaporation_rate: 0.1,  best_distance: 8185.962234965389, time: 7.993823528289795
+alpha: 15, beta: 17, evaporation_rate: 0.1,  best_distance: 8562.303191744779, time: 7.800928354263306
+alpha: 15, beta: 17, evaporation_rate: 0.1,  best_distance: 8572.210151716788, time: 7.74664044380188
+
+alpha: 15, beta: 18, evaporation_rate: 0.1,  best_distance: 8388.377249662377, time: 7.958224773406982
+alpha: 15, beta: 18, evaporation_rate: 0.1,  best_distance: 8261.287912426853, time: 7.7853593826293945
+alpha: 15, beta: 18, evaporation_rate: 0.1,  best_distance: 8689.553077828394, time: 7.809629440307617
+
+alpha: 15, beta: 19, evaporation_rate: 0.1,  best_distance: 8439.776754067781, time: 7.924314498901367
+alpha: 15, beta: 19, evaporation_rate: 0.1,  best_distance: 8666.951553869869, time: 7.813774824142456
+alpha: 15, beta: 19, evaporation_rate: 0.1,  best_distance: 8770.829543690985, time: 7.757571220397949
+
+alpha: 15, beta: 20, evaporation_rate: 0.1,  best_distance: 8691.760394764055, time: 7.9192564487457275
+alpha: 15, beta: 20, evaporation_rate: 0.1,  best_distance: 8426.728347478765, time: 7.774067640304565
+alpha: 15, beta: 20, evaporation_rate: 0.1,  best_distance: 8687.845569853365, time: 8.056769132614136
+
+alpha: 16, beta: 1, evaporation_rate: 0.1,  best_distance: 9430.043711072083, time: 8.116397857666016
+alpha: 16, beta: 1, evaporation_rate: 0.1,  best_distance: 9088.801282111815, time: 7.9766151905059814
+alpha: 16, beta: 1, evaporation_rate: 0.1,  best_distance: 9129.186190418817, time: 7.971134901046753
+
+alpha: 16, beta: 2, evaporation_rate: 0.1,  best_distance: 8472.339214969064, time: 8.241827487945557
+alpha: 16, beta: 2, evaporation_rate: 0.1,  best_distance: 8914.422165733455, time: 8.050233840942383
+alpha: 16, beta: 2, evaporation_rate: 0.1,  best_distance: 8874.175528534952, time: 8.026016235351562
+
+alpha: 16, beta: 3, evaporation_rate: 0.1,  best_distance: 8568.761969024245, time: 8.20930814743042
+alpha: 16, beta: 3, evaporation_rate: 0.1,  best_distance: 8617.75455952199, time: 8.043287515640259
+alpha: 16, beta: 3, evaporation_rate: 0.1,  best_distance: 8840.877563398555, time: 8.052967548370361
+
+alpha: 16, beta: 4, evaporation_rate: 0.1,  best_distance: 8666.506731121795, time: 8.146244764328003
+alpha: 16, beta: 4, evaporation_rate: 0.1,  best_distance: 8825.860376777426, time: 8.075443267822266
+alpha: 16, beta: 4, evaporation_rate: 0.1,  best_distance: 8923.467448132373, time: 8.072838306427002
+
+alpha: 16, beta: 5, evaporation_rate: 0.1,  best_distance: 8528.571930655162, time: 8.165738105773926
+alpha: 16, beta: 5, evaporation_rate: 0.1,  best_distance: 8636.613514918114, time: 8.134717464447021
+alpha: 16, beta: 5, evaporation_rate: 0.1,  best_distance: 8336.012965986381, time: 8.073298692703247
+
+alpha: 16, beta: 6, evaporation_rate: 0.1,  best_distance: 8390.526107026908, time: 8.165616035461426
+alpha: 16, beta: 6, evaporation_rate: 0.1,  best_distance: 8762.084438393053, time: 8.06329083442688
+alpha: 16, beta: 6, evaporation_rate: 0.1,  best_distance: 8475.018095414893, time: 8.048713445663452
+
+alpha: 16, beta: 7, evaporation_rate: 0.1,  best_distance: 8547.169682767111, time: 8.204060554504395
+alpha: 16, beta: 7, evaporation_rate: 0.1,  best_distance: 8454.303537774545, time: 8.02707052230835
+alpha: 16, beta: 7, evaporation_rate: 0.1,  best_distance: 8125.361360361499, time: 8.022173166275024
+
+alpha: 16, beta: 8, evaporation_rate: 0.1,  best_distance: 8362.756838576906, time: 8.204210758209229
+alpha: 16, beta: 8, evaporation_rate: 0.1,  best_distance: 8194.17819988269, time: 67.77747774124146
+alpha: 16, beta: 8, evaporation_rate: 0.1,  best_distance: 8271.16065529947, time: 3.6303699016571045
+
+alpha: 16, beta: 9, evaporation_rate: 0.1,  best_distance: 8173.280898248847, time: 6.290703058242798
+alpha: 16, beta: 9, evaporation_rate: 0.1,  best_distance: 8441.268298738067, time: 5.297939300537109
+alpha: 16, beta: 9, evaporation_rate: 0.1,  best_distance: 8558.048679821919, time: 5.160956621170044
+
+alpha: 16, beta: 10, evaporation_rate: 0.1,  best_distance: 8450.604383168587, time: 5.32357120513916
+alpha: 16, beta: 10, evaporation_rate: 0.1,  best_distance: 8141.501934622591, time: 5.265735864639282
+alpha: 16, beta: 10, evaporation_rate: 0.1,  best_distance: 8031.354694674487, time: 5.141264915466309
+
+alpha: 16, beta: 11, evaporation_rate: 0.1,  best_distance: 8429.481282000897, time: 5.328019380569458
+alpha: 16, beta: 11, evaporation_rate: 0.1,  best_distance: 8647.646428942486, time: 5.17961049079895
+alpha: 16, beta: 11, evaporation_rate: 0.1,  best_distance: 8169.470038996627, time: 5.133724689483643
+
+alpha: 16, beta: 12, evaporation_rate: 0.1,  best_distance: 8570.43517516272, time: 5.328229665756226
+alpha: 16, beta: 12, evaporation_rate: 0.1,  best_distance: 8642.93292938635, time: 5.204922914505005
+alpha: 16, beta: 12, evaporation_rate: 0.1,  best_distance: 8248.383732099664, time: 5.1555821895599365
+
+alpha: 16, beta: 13, evaporation_rate: 0.1,  best_distance: 8306.073889139092, time: 5.314118385314941
+alpha: 16, beta: 13, evaporation_rate: 0.1,  best_distance: 8499.220527164212, time: 5.1831536293029785
+alpha: 16, beta: 13, evaporation_rate: 0.1,  best_distance: 8455.973921470973, time: 5.129877328872681
+
+alpha: 16, beta: 14, evaporation_rate: 0.1,  best_distance: 8411.935751952673, time: 5.31253719329834
+alpha: 16, beta: 14, evaporation_rate: 0.1,  best_distance: 8178.2356535312165, time: 5.1948401927948
+alpha: 16, beta: 14, evaporation_rate: 0.1,  best_distance: 8622.766612041574, time: 5.149230241775513
+
+alpha: 16, beta: 15, evaporation_rate: 0.1,  best_distance: 8518.708799436854, time: 5.437885284423828
+alpha: 16, beta: 15, evaporation_rate: 0.1,  best_distance: 8592.351413654407, time: 5.1724278926849365
+alpha: 16, beta: 15, evaporation_rate: 0.1,  best_distance: 8666.408031002395, time: 5.156291961669922
+
+alpha: 16, beta: 16, evaporation_rate: 0.1,  best_distance: 8585.34791557362, time: 5.329495668411255
+alpha: 16, beta: 16, evaporation_rate: 0.1,  best_distance: 8680.31195764052, time: 5.172508239746094
+alpha: 16, beta: 16, evaporation_rate: 0.1,  best_distance: 8372.03796203541, time: 5.155967950820923
+
+alpha: 16, beta: 17, evaporation_rate: 0.1,  best_distance: 8634.41191870038, time: 5.360685586929321
+alpha: 16, beta: 17, evaporation_rate: 0.1,  best_distance: 8038.497908246952, time: 5.186465501785278
+alpha: 16, beta: 17, evaporation_rate: 0.1,  best_distance: 8660.29587530225, time: 5.140661954879761
+
+alpha: 16, beta: 18, evaporation_rate: 0.1,  best_distance: 8695.389756526867, time: 5.360886335372925
+alpha: 16, beta: 18, evaporation_rate: 0.1,  best_distance: 8602.19790126237, time: 5.424213409423828
+alpha: 16, beta: 18, evaporation_rate: 0.1,  best_distance: 8513.293154765688, time: 6.060453414916992
+
+alpha: 16, beta: 19, evaporation_rate: 0.1,  best_distance: 8624.011426780919, time: 7.198697805404663
+alpha: 16, beta: 19, evaporation_rate: 0.1,  best_distance: 8585.34791557362, time: 6.708356618881226
+alpha: 16, beta: 19, evaporation_rate: 0.1,  best_distance: 8659.999565954708, time: 6.440263032913208
+
+alpha: 16, beta: 20, evaporation_rate: 0.1,  best_distance: 8680.039942568246, time: 5.5042884349823
+alpha: 16, beta: 20, evaporation_rate: 0.1,  best_distance: 8656.855348966761, time: 5.044085741043091
+alpha: 16, beta: 20, evaporation_rate: 0.1,  best_distance: 8565.644777285223, time: 4.983331918716431
+
+alpha: 17, beta: 1, evaporation_rate: 0.1,  best_distance: 9389.667453252267, time: 5.172856330871582
+alpha: 17, beta: 1, evaporation_rate: 0.1,  best_distance: 9426.247646384638, time: 4.9838645458221436
+alpha: 17, beta: 1, evaporation_rate: 0.1,  best_distance: 9541.934402669951, time: 5.093872785568237
+
+alpha: 17, beta: 2, evaporation_rate: 0.1,  best_distance: 8248.257898145956, time: 5.470628023147583
+alpha: 17, beta: 2, evaporation_rate: 0.1,  best_distance: 8571.163238191339, time: 5.013472318649292
+alpha: 17, beta: 2, evaporation_rate: 0.1,  best_distance: 8776.940567035628, time: 4.999587297439575
+
+alpha: 17, beta: 3, evaporation_rate: 0.1,  best_distance: 8734.562706477025, time: 5.173056602478027
+alpha: 17, beta: 3, evaporation_rate: 0.1,  best_distance: 8818.892587011784, time: 5.050884008407593
+alpha: 17, beta: 3, evaporation_rate: 0.1,  best_distance: 8827.771931724865, time: 5.010624170303345
+
+alpha: 17, beta: 4, evaporation_rate: 0.1,  best_distance: 8474.684887100651, time: 5.172343969345093
+alpha: 17, beta: 4, evaporation_rate: 0.1,  best_distance: 8452.581888724264, time: 5.048711061477661
+alpha: 17, beta: 4, evaporation_rate: 0.1,  best_distance: 8722.217158834957, time: 5.1244611740112305
+
+alpha: 17, beta: 5, evaporation_rate: 0.1,  best_distance: 8350.367033245853, time: 5.1399078369140625
+alpha: 17, beta: 5, evaporation_rate: 0.1,  best_distance: 8682.591518935486, time: 5.0949037075042725
+alpha: 17, beta: 5, evaporation_rate: 0.1,  best_distance: 8505.83743027506, time: 5.0149312019348145
+
+alpha: 17, beta: 6, evaporation_rate: 0.1,  best_distance: 8194.599938980566, time: 5.205889940261841
+alpha: 17, beta: 6, evaporation_rate: 0.1,  best_distance: 8705.92682852797, time: 5.02858304977417
+alpha: 17, beta: 6, evaporation_rate: 0.1,  best_distance: 8358.878572390577, time: 4.969403028488159
+
+alpha: 17, beta: 7, evaporation_rate: 0.1,  best_distance: 8571.878455702814, time: 5.140140056610107
+alpha: 17, beta: 7, evaporation_rate: 0.1,  best_distance: 8449.214603864517, time: 5.624887228012085
+alpha: 17, beta: 7, evaporation_rate: 0.1,  best_distance: 8208.07847836465, time: 5.566160440444946
+
+alpha: 17, beta: 8, evaporation_rate: 0.1,  best_distance: 8121.824132881616, time: 5.273556709289551
+alpha: 17, beta: 8, evaporation_rate: 0.1,  best_distance: 8546.89924784609, time: 5.053279399871826
+alpha: 17, beta: 8, evaporation_rate: 0.1,  best_distance: 8500.65313870772, time: 5.062770366668701
+
+alpha: 17, beta: 9, evaporation_rate: 0.1,  best_distance: 8122.93341532745, time: 5.14150595664978
+alpha: 17, beta: 9, evaporation_rate: 0.1,  best_distance: 8427.958288288883, time: 5.030451774597168
+alpha: 17, beta: 9, evaporation_rate: 0.1,  best_distance: 8240.139357295508, time: 4.9834885597229
+
+alpha: 17, beta: 10, evaporation_rate: 0.1,  best_distance: 8373.783393572683, time: 5.187568664550781
+alpha: 17, beta: 10, evaporation_rate: 0.1,  best_distance: 8331.386157866289, time: 5.001022815704346
+alpha: 17, beta: 10, evaporation_rate: 0.1,  best_distance: 8408.310472472842, time: 4.987708806991577
+
+alpha: 17, beta: 11, evaporation_rate: 0.1,  best_distance: 8118.4965254955505, time: 5.151939868927002
+alpha: 17, beta: 11, evaporation_rate: 0.1,  best_distance: 8494.641985443233, time: 5.610864639282227
+alpha: 17, beta: 11, evaporation_rate: 0.1,  best_distance: 8275.383870953621, time: 5.160194396972656
+
+alpha: 17, beta: 12, evaporation_rate: 0.1,  best_distance: 8267.18154443457, time: 5.30738377571106
+alpha: 17, beta: 12, evaporation_rate: 0.1,  best_distance: 8187.962162490368, time: 5.17510724067688
+alpha: 17, beta: 12, evaporation_rate: 0.1,  best_distance: 8085.330058229487, time: 5.141381740570068
+
+alpha: 17, beta: 13, evaporation_rate: 0.1,  best_distance: 8164.183627284978, time: 5.360166549682617
+alpha: 17, beta: 13, evaporation_rate: 0.1,  best_distance: 8463.514923441558, time: 5.202874183654785
+alpha: 17, beta: 13, evaporation_rate: 0.1,  best_distance: 8190.9554665971245, time: 5.156027317047119
+
+alpha: 17, beta: 14, evaporation_rate: 0.1,  best_distance: 8276.524099338456, time: 5.3291778564453125
+alpha: 17, beta: 14, evaporation_rate: 0.1,  best_distance: 8201.30898233087, time: 5.174370050430298
+alpha: 17, beta: 14, evaporation_rate: 0.1,  best_distance: 8555.241618773749, time: 5.154748201370239
+
+alpha: 17, beta: 15, evaporation_rate: 0.1,  best_distance: 8170.475653569165, time: 5.375894069671631
+alpha: 17, beta: 15, evaporation_rate: 0.1,  best_distance: 8728.298054903467, time: 5.234217405319214
+alpha: 17, beta: 15, evaporation_rate: 0.1,  best_distance: 8335.966984945862, time: 5.133364677429199
+
+alpha: 17, beta: 16, evaporation_rate: 0.1,  best_distance: 8656.855348966761, time: 5.320378303527832
+alpha: 17, beta: 16, evaporation_rate: 0.1,  best_distance: 8636.02998642784, time: 5.171480178833008
+alpha: 17, beta: 16, evaporation_rate: 0.1,  best_distance: 8358.30700705684, time: 5.172361612319946
+
+alpha: 17, beta: 17, evaporation_rate: 0.1,  best_distance: 8605.076041142087, time: 5.343397378921509
+alpha: 17, beta: 17, evaporation_rate: 0.1,  best_distance: 8716.265351662587, time: 5.15700364112854
+alpha: 17, beta: 17, evaporation_rate: 0.1,  best_distance: 8659.999565954708, time: 5.157298564910889
+
+alpha: 17, beta: 18, evaporation_rate: 0.1,  best_distance: 8689.553077828394, time: 5.360767364501953
+alpha: 17, beta: 18, evaporation_rate: 0.1,  best_distance: 8674.165999718623, time: 5.186637878417969
+alpha: 17, beta: 18, evaporation_rate: 0.1,  best_distance: 8659.999565954708, time: 5.156329154968262
+
+alpha: 17, beta: 19, evaporation_rate: 0.1,  best_distance: 8756.650053535259, time: 5.328587055206299
+alpha: 17, beta: 19, evaporation_rate: 0.1,  best_distance: 8660.878353016507, time: 5.323883771896362
+alpha: 17, beta: 19, evaporation_rate: 0.1,  best_distance: 8682.815583923724, time: 5.208518743515015
+
+alpha: 17, beta: 20, evaporation_rate: 0.1,  best_distance: 8605.076041142087, time: 5.3298020362854
+alpha: 17, beta: 20, evaporation_rate: 0.1,  best_distance: 8773.96956078776, time: 5.220753192901611
+alpha: 17, beta: 20, evaporation_rate: 0.1,  best_distance: 8728.001745555925, time: 5.783019304275513
+
+alpha: 18, beta: 1, evaporation_rate: 0.1,  best_distance: 8714.486360883307, time: 5.2965967655181885
+alpha: 18, beta: 1, evaporation_rate: 0.1,  best_distance: 9633.300791179166, time: 5.139886856079102
+alpha: 18, beta: 1, evaporation_rate: 0.1,  best_distance: 8592.002965942194, time: 5.8475871086120605
+
+alpha: 18, beta: 2, evaporation_rate: 0.1,  best_distance: 9089.924163598653, time: 5.5380918979644775
+alpha: 18, beta: 2, evaporation_rate: 0.1,  best_distance: 8872.74114726007, time: 5.244357109069824
+alpha: 18, beta: 2, evaporation_rate: 0.1,  best_distance: 8290.850860584074, time: 5.203977108001709
+
+alpha: 18, beta: 3, evaporation_rate: 0.1,  best_distance: 8850.396254998233, time: 5.3129730224609375
+alpha: 18, beta: 3, evaporation_rate: 0.1,  best_distance: 8517.98525247817, time: 5.1709980964660645
+alpha: 18, beta: 3, evaporation_rate: 0.1,  best_distance: 8215.63945657104, time: 5.235097646713257
+
+alpha: 18, beta: 4, evaporation_rate: 0.1,  best_distance: 8582.186754916791, time: 5.532140493392944
+alpha: 18, beta: 4, evaporation_rate: 0.1,  best_distance: 8756.518397653408, time: 5.250662326812744
+alpha: 18, beta: 4, evaporation_rate: 0.1,  best_distance: 8516.594367167032, time: 5.173083543777466
+
+alpha: 18, beta: 5, evaporation_rate: 0.1,  best_distance: 8402.218633484372, time: 5.312594652175903
+alpha: 18, beta: 5, evaporation_rate: 0.1,  best_distance: 8364.282590999854, time: 5.2192933559417725
+alpha: 18, beta: 5, evaporation_rate: 0.1,  best_distance: 8455.227099696229, time: 5.218371391296387
+
+alpha: 18, beta: 6, evaporation_rate: 0.1,  best_distance: 8459.043132131254, time: 5.344482421875
+alpha: 18, beta: 6, evaporation_rate: 0.1,  best_distance: 8511.249012241313, time: 5.564591646194458
+alpha: 18, beta: 6, evaporation_rate: 0.1,  best_distance: 8371.19879532134, time: 5.345176458358765
+
+alpha: 18, beta: 7, evaporation_rate: 0.1,  best_distance: 8465.909648747489, time: 5.336182355880737
+alpha: 18, beta: 7, evaporation_rate: 0.1,  best_distance: 8458.200234873495, time: 5.164907455444336
+alpha: 18, beta: 7, evaporation_rate: 0.1,  best_distance: 8124.857360668052, time: 5.143371105194092
+
+alpha: 18, beta: 8, evaporation_rate: 0.1,  best_distance: 8504.126398448781, time: 5.320467710494995
+alpha: 18, beta: 8, evaporation_rate: 0.1,  best_distance: 8422.274856628392, time: 5.203026533126831
+alpha: 18, beta: 8, evaporation_rate: 0.1,  best_distance: 8301.93636051669, time: 5.439247369766235
+
+alpha: 18, beta: 9, evaporation_rate: 0.1,  best_distance: 8565.071935375014, time: 5.438469886779785
+alpha: 18, beta: 9, evaporation_rate: 0.1,  best_distance: 8446.277533256343, time: 5.235473155975342
+alpha: 18, beta: 9, evaporation_rate: 0.1,  best_distance: 8191.21277742776, time: 5.170302629470825
+
+alpha: 18, beta: 10, evaporation_rate: 0.1,  best_distance: 8580.568696073797, time: 5.46946120262146
+alpha: 18, beta: 10, evaporation_rate: 0.1,  best_distance: 8281.49362803262, time: 6.099709749221802
+alpha: 18, beta: 10, evaporation_rate: 0.1,  best_distance: 8498.025016286834, time: 5.176616191864014
+
+alpha: 18, beta: 11, evaporation_rate: 0.1,  best_distance: 8538.968554205865, time: 8.097551584243774
+alpha: 18, beta: 11, evaporation_rate: 0.1,  best_distance: 8167.449778976078, time: 8.04513669013977
+alpha: 18, beta: 11, evaporation_rate: 0.1,  best_distance: 8634.3147419944, time: 8.06026029586792
+
+alpha: 18, beta: 12, evaporation_rate: 0.1,  best_distance: 8143.451460098708, time: 8.141302108764648
+alpha: 18, beta: 12, evaporation_rate: 0.1,  best_distance: 8392.482518177898, time: 8.069743394851685
+alpha: 18, beta: 12, evaporation_rate: 0.1,  best_distance: 8468.63477458919, time: 8.006700277328491
+
+alpha: 18, beta: 13, evaporation_rate: 0.1,  best_distance: 8583.451932036327, time: 8.31169843673706
+alpha: 18, beta: 13, evaporation_rate: 0.1,  best_distance: 8316.337836419028, time: 8.064645528793335
+alpha: 18, beta: 13, evaporation_rate: 0.1,  best_distance: 8197.621242475447, time: 8.073924779891968
+
+alpha: 18, beta: 14, evaporation_rate: 0.1,  best_distance: 8487.679923527488, time: 8.18780255317688
+alpha: 18, beta: 14, evaporation_rate: 0.1,  best_distance: 8664.200714066734, time: 8.046411991119385
+alpha: 18, beta: 14, evaporation_rate: 0.1,  best_distance: 8441.143697066062, time: 8.019914865493774
+
+alpha: 18, beta: 15, evaporation_rate: 0.1,  best_distance: 8510.424304525788, time: 3.949805498123169
+alpha: 18, beta: 15, evaporation_rate: 0.1,  best_distance: 8641.803400866787, time: 5.02328634262085
+alpha: 18, beta: 15, evaporation_rate: 0.1,  best_distance: 8698.40727054836, time: 5.3130786418914795
+
+alpha: 18, beta: 16, evaporation_rate: 0.1,  best_distance: 8659.999565954708, time: 5.3286120891571045
+alpha: 18, beta: 16, evaporation_rate: 0.1,  best_distance: 8585.34791557362, time: 5.250515699386597
+alpha: 18, beta: 16, evaporation_rate: 0.1,  best_distance: 8472.904525875409, time: 5.156998157501221
+
+alpha: 18, beta: 17, evaporation_rate: 0.1,  best_distance: 8659.999565954708, time: 5.361625909805298
+alpha: 18, beta: 17, evaporation_rate: 0.1,  best_distance: 8075.504831763552, time: 5.175832271575928
+alpha: 18, beta: 17, evaporation_rate: 0.1,  best_distance: 8638.751654597234, time: 5.166448354721069
+
+alpha: 18, beta: 18, evaporation_rate: 0.1,  best_distance: 8173.494952541345, time: 5.2973597049713135
+alpha: 18, beta: 18, evaporation_rate: 0.1,  best_distance: 8662.106332828405, time: 5.1553943157196045
+alpha: 18, beta: 18, evaporation_rate: 0.1,  best_distance: 8643.206194160204, time: 5.174059152603149
+
+alpha: 18, beta: 19, evaporation_rate: 0.1,  best_distance: 8139.8845551885715, time: 5.436791181564331
+alpha: 18, beta: 19, evaporation_rate: 0.1,  best_distance: 8533.258291752241, time: 5.191768646240234
+alpha: 18, beta: 19, evaporation_rate: 0.1,  best_distance: 8659.999565954708, time: 5.169889688491821
+
+alpha: 18, beta: 20, evaporation_rate: 0.1,  best_distance: 8613.435271043465, time: 5.33425760269165
+alpha: 18, beta: 20, evaporation_rate: 0.1,  best_distance: 8739.068714881638, time: 5.183640956878662
+alpha: 18, beta: 20, evaporation_rate: 0.1,  best_distance: 8750.407083965973, time: 5.138605833053589
+
+alpha: 19, beta: 1, evaporation_rate: 0.1,  best_distance: 9697.18975168203, time: 5.298412799835205
+alpha: 19, beta: 1, evaporation_rate: 0.1,  best_distance: 9073.60471058608, time: 5.187245845794678
+alpha: 19, beta: 1, evaporation_rate: 0.1,  best_distance: 10410.269450398051, time: 5.110214471817017
+
+alpha: 19, beta: 2, evaporation_rate: 0.1,  best_distance: 8223.180191211544, time: 5.329753160476685
+alpha: 19, beta: 2, evaporation_rate: 0.1,  best_distance: 8923.320261140387, time: 5.155507326126099
+alpha: 19, beta: 2, evaporation_rate: 0.1,  best_distance: 8523.875877120796, time: 5.155315637588501
+
+alpha: 19, beta: 3, evaporation_rate: 0.1,  best_distance: 8933.600344828672, time: 5.329679012298584
+alpha: 19, beta: 3, evaporation_rate: 0.1,  best_distance: 8666.27079456869, time: 5.704542398452759
+alpha: 19, beta: 3, evaporation_rate: 0.1,  best_distance: 8827.047932788044, time: 5.157842636108398
+
+alpha: 19, beta: 4, evaporation_rate: 0.1,  best_distance: 8748.11870122673, time: 5.327106952667236
+alpha: 19, beta: 4, evaporation_rate: 0.1,  best_distance: 8767.127307022864, time: 5.218726396560669
+alpha: 19, beta: 4, evaporation_rate: 0.1,  best_distance: 8479.66047263468, time: 5.140412092208862
+
+alpha: 19, beta: 5, evaporation_rate: 0.1,  best_distance: 8347.129374243033, time: 5.329998731613159
+alpha: 19, beta: 5, evaporation_rate: 0.1,  best_distance: 8704.724270573808, time: 5.2034900188446045
+alpha: 19, beta: 5, evaporation_rate: 0.1,  best_distance: 8494.83667384783, time: 5.234342336654663
+
+alpha: 19, beta: 6, evaporation_rate: 0.1,  best_distance: 8430.221392819049, time: 5.297176837921143
+alpha: 19, beta: 6, evaporation_rate: 0.1,  best_distance: 8209.650392066358, time: 5.173030853271484
+alpha: 19, beta: 6, evaporation_rate: 0.1,  best_distance: 8477.883389979968, time: 6.177287578582764
+
+alpha: 19, beta: 7, evaporation_rate: 0.1,  best_distance: 8076.176283044342, time: 5.26421332359314
+alpha: 19, beta: 7, evaporation_rate: 0.1,  best_distance: 8375.02894151292, time: 5.014481067657471
+alpha: 19, beta: 7, evaporation_rate: 0.1,  best_distance: 8254.850236481017, time: 5.047542333602905
+
+alpha: 19, beta: 8, evaporation_rate: 0.1,  best_distance: 8482.964853422147, time: 5.171998739242554
+alpha: 19, beta: 8, evaporation_rate: 0.1,  best_distance: 8118.20209792956, time: 5.025787830352783
+alpha: 19, beta: 8, evaporation_rate: 0.1,  best_distance: 8308.96229869228, time: 5.162751197814941
+
+alpha: 19, beta: 9, evaporation_rate: 0.1,  best_distance: 8651.957990491355, time: 5.2027428150177
+alpha: 19, beta: 9, evaporation_rate: 0.1,  best_distance: 8197.93450662926, time: 5.015684127807617
+alpha: 19, beta: 9, evaporation_rate: 0.1,  best_distance: 8212.51928198834, time: 4.998345851898193
+
+alpha: 19, beta: 10, evaporation_rate: 0.1,  best_distance: 8588.064004546017, time: 5.208285093307495
+alpha: 19, beta: 10, evaporation_rate: 0.1,  best_distance: 8177.8792347617555, time: 5.012821674346924
+alpha: 19, beta: 10, evaporation_rate: 0.1,  best_distance: 8419.493591872188, time: 5.312191724777222
+
+alpha: 19, beta: 11, evaporation_rate: 0.1,  best_distance: 8703.080575707849, time: 5.303971290588379
+alpha: 19, beta: 11, evaporation_rate: 0.1,  best_distance: 8368.214266048915, time: 5.015445947647095
+alpha: 19, beta: 11, evaporation_rate: 0.1,  best_distance: 8133.6816250595475, time: 5.828043699264526
+
+alpha: 19, beta: 12, evaporation_rate: 0.1,  best_distance: 8159.008195844244, time: 5.189718246459961
+alpha: 19, beta: 12, evaporation_rate: 0.1,  best_distance: 8655.20710857919, time: 5.180648565292358
+alpha: 19, beta: 12, evaporation_rate: 0.1,  best_distance: 8397.050427081127, time: 5.713972568511963
+
+alpha: 19, beta: 13, evaporation_rate: 0.1,  best_distance: 8272.012882926401, time: 5.858622312545776
+alpha: 19, beta: 13, evaporation_rate: 0.1,  best_distance: 8171.484651859295, time: 5.799633264541626
+alpha: 19, beta: 13, evaporation_rate: 0.1,  best_distance: 8656.855348966761, time: 5.000084400177002
+
+alpha: 19, beta: 14, evaporation_rate: 0.1,  best_distance: 8692.07856176613, time: 6.810026407241821
+alpha: 19, beta: 14, evaporation_rate: 0.1,  best_distance: 8171.484651859295, time: 5.822517156600952
+alpha: 19, beta: 14, evaporation_rate: 0.1,  best_distance: 8077.499194201779, time: 5.328752040863037
+
+alpha: 19, beta: 15, evaporation_rate: 0.1,  best_distance: 8659.999565954708, time: 5.337498903274536
+alpha: 19, beta: 15, evaporation_rate: 0.1,  best_distance: 8585.34791557362, time: 5.163149118423462
+alpha: 19, beta: 15, evaporation_rate: 0.1,  best_distance: 8513.422264061046, time: 5.144896745681763
+
+alpha: 19, beta: 16, evaporation_rate: 0.1,  best_distance: 8552.877574253429, time: 5.3420751094818115
+alpha: 19, beta: 16, evaporation_rate: 0.1,  best_distance: 8667.576345345655, time: 5.2168097496032715
+alpha: 19, beta: 16, evaporation_rate: 0.1,  best_distance: 8220.61933039621, time: 5.158803701400757
+
+alpha: 19, beta: 17, evaporation_rate: 0.1,  best_distance: 8603.104941671227, time: 5.328448534011841
+alpha: 19, beta: 17, evaporation_rate: 0.1,  best_distance: 8630.263837850658, time: 5.1715662479400635
+alpha: 19, beta: 17, evaporation_rate: 0.1,  best_distance: 8482.609282202351, time: 5.155614614486694
+
+alpha: 19, beta: 18, evaporation_rate: 0.1,  best_distance: 8708.049576470667, time: 5.297246694564819
+alpha: 19, beta: 18, evaporation_rate: 0.1,  best_distance: 8560.952193836863, time: 5.219534635543823
+alpha: 19, beta: 18, evaporation_rate: 0.1,  best_distance: 8279.576618532428, time: 5.142560005187988
+
+alpha: 19, beta: 19, evaporation_rate: 0.1,  best_distance: 8682.188220076916, time: 5.720460653305054
+alpha: 19, beta: 19, evaporation_rate: 0.1,  best_distance: 8741.1659637781, time: 5.217455625534058
+alpha: 19, beta: 19, evaporation_rate: 0.1,  best_distance: 8656.855348966761, time: 5.203663349151611
+
+alpha: 19, beta: 20, evaporation_rate: 0.1,  best_distance: 8585.34791557362, time: 5.391686677932739
+alpha: 19, beta: 20, evaporation_rate: 0.1,  best_distance: 8689.553077828394, time: 5.215359926223755
+alpha: 19, beta: 20, evaporation_rate: 0.1,  best_distance: 8423.37500404636, time: 5.159743785858154
+
+alpha: 20, beta: 1, evaporation_rate: 0.1,  best_distance: 10029.872924190591, time: 5.281724691390991
+alpha: 20, beta: 1, evaporation_rate: 0.1,  best_distance: 8990.061865386038, time: 5.156045436859131
+alpha: 20, beta: 1, evaporation_rate: 0.1,  best_distance: 10013.37642481003, time: 5.156834125518799
+
+alpha: 20, beta: 2, evaporation_rate: 0.1,  best_distance: 8757.078038592072, time: 5.379657983779907
+alpha: 20, beta: 2, evaporation_rate: 0.1,  best_distance: 8580.732159879322, time: 5.271528959274292
+alpha: 20, beta: 2, evaporation_rate: 0.1,  best_distance: 8727.413995360983, time: 5.163316965103149
+
+alpha: 20, beta: 3, evaporation_rate: 0.1,  best_distance: 8752.94253585664, time: 5.689240455627441
+alpha: 20, beta: 3, evaporation_rate: 0.1,  best_distance: 8769.136509616075, time: 5.206267595291138
+alpha: 20, beta: 3, evaporation_rate: 0.1,  best_distance: 8766.322985904659, time: 5.138704061508179
+
+alpha: 20, beta: 4, evaporation_rate: 0.1,  best_distance: 8747.44394978881, time: 5.377207040786743
+alpha: 20, beta: 4, evaporation_rate: 0.1,  best_distance: 8634.97594087822, time: 5.562265396118164
+alpha: 20, beta: 4, evaporation_rate: 0.1,  best_distance: 8267.061614513212, time: 5.171082973480225
+
+alpha: 20, beta: 5, evaporation_rate: 0.1,  best_distance: 8658.322199827737, time: 5.329626798629761
+alpha: 20, beta: 5, evaporation_rate: 0.1,  best_distance: 8612.047365299431, time: 5.29852294921875
+alpha: 20, beta: 5, evaporation_rate: 0.1,  best_distance: 8834.540087090994, time: 5.140907526016235
+
+alpha: 20, beta: 6, evaporation_rate: 0.1,  best_distance: 8543.57988942165, time: 5.375668048858643
+alpha: 20, beta: 6, evaporation_rate: 0.1,  best_distance: 8608.17034357597, time: 5.266906976699829
+alpha: 20, beta: 6, evaporation_rate: 0.1,  best_distance: 8682.52871124646, time: 5.155609607696533
+
+alpha: 20, beta: 7, evaporation_rate: 0.1,  best_distance: 8089.075104923917, time: 5.344205856323242
+alpha: 20, beta: 7, evaporation_rate: 0.1,  best_distance: 8581.583661182467, time: 5.211526393890381
+alpha: 20, beta: 7, evaporation_rate: 0.1,  best_distance: 8619.823164155585, time: 5.146939992904663
+
+alpha: 20, beta: 8, evaporation_rate: 0.1,  best_distance: 8440.955582449045, time: 5.329948425292969
+alpha: 20, beta: 8, evaporation_rate: 0.1,  best_distance: 8654.146530784237, time: 5.1710991859436035
+alpha: 20, beta: 8, evaporation_rate: 0.1,  best_distance: 8580.498631415876, time: 5.15733003616333
+
+alpha: 20, beta: 9, evaporation_rate: 0.1,  best_distance: 8171.484651859295, time: 5.297704696655273
+alpha: 20, beta: 9, evaporation_rate: 0.1,  best_distance: 8538.620827240353, time: 5.177231311798096
+alpha: 20, beta: 9, evaporation_rate: 0.1,  best_distance: 8615.320643402636, time: 5.18156886100769
+
+alpha: 20, beta: 10, evaporation_rate: 0.1,  best_distance: 8210.656868762027, time: 5.34573769569397
+alpha: 20, beta: 10, evaporation_rate: 0.1,  best_distance: 8122.488623733931, time: 5.1714489459991455
+alpha: 20, beta: 10, evaporation_rate: 0.1,  best_distance: 8213.525273337758, time: 5.158134937286377
+
+alpha: 20, beta: 11, evaporation_rate: 0.1,  best_distance: 8546.94122849682, time: 5.767941236495972
+alpha: 20, beta: 11, evaporation_rate: 0.1,  best_distance: 8655.372757834615, time: 5.171264410018921
+alpha: 20, beta: 11, evaporation_rate: 0.1,  best_distance: 8167.449778976078, time: 5.1711814403533936
+
+alpha: 20, beta: 12, evaporation_rate: 0.1,  best_distance: 8322.271695694304, time: 5.3286707401275635
+alpha: 20, beta: 12, evaporation_rate: 0.1,  best_distance: 8527.653190281148, time: 5.235086441040039
+alpha: 20, beta: 12, evaporation_rate: 0.1,  best_distance: 8220.61933039621, time: 5.127060174942017
+
+alpha: 20, beta: 13, evaporation_rate: 0.1,  best_distance: 8048.59411315006, time: 5.397135257720947
+alpha: 20, beta: 13, evaporation_rate: 0.1,  best_distance: 8684.865432918497, time: 5.149500131607056
+alpha: 20, beta: 13, evaporation_rate: 0.1,  best_distance: 8139.444449179451, time: 5.172897815704346
+
+alpha: 20, beta: 14, evaporation_rate: 0.1,  best_distance: 8605.076041142087, time: 5.328983783721924
+alpha: 20, beta: 14, evaporation_rate: 0.1,  best_distance: 8497.326080925519, time: 5.186901092529297
+alpha: 20, beta: 14, evaporation_rate: 0.1,  best_distance: 8256.14627126679, time: 5.133758783340454
+
+alpha: 20, beta: 15, evaporation_rate: 0.1,  best_distance: 8682.188220076916, time: 5.287846803665161
+alpha: 20, beta: 15, evaporation_rate: 0.1,  best_distance: 8611.053823410159, time: 5.328519821166992
+alpha: 20, beta: 15, evaporation_rate: 0.1,  best_distance: 8374.195352060726, time: 5.141982555389404
+
+alpha: 20, beta: 16, evaporation_rate: 0.1,  best_distance: 8649.396902125833, time: 5.308692932128906
+alpha: 20, beta: 16, evaporation_rate: 0.1,  best_distance: 8659.999565954708, time: 5.162632465362549
+alpha: 20, beta: 16, evaporation_rate: 0.1,  best_distance: 8467.92994972843, time: 5.2029759883880615
+
+alpha: 20, beta: 17, evaporation_rate: 0.1,  best_distance: 8585.34791557362, time: 5.655071020126343
+alpha: 20, beta: 17, evaporation_rate: 0.1,  best_distance: 8149.409734831341, time: 5.176159381866455
+alpha: 20, beta: 17, evaporation_rate: 0.1,  best_distance: 8728.001745555925, time: 5.139915227890015
+
+alpha: 20, beta: 18, evaporation_rate: 0.1,  best_distance: 8615.090393158838, time: 5.47117805480957
+alpha: 20, beta: 18, evaporation_rate: 0.1,  best_distance: 8659.999565954708, time: 5.345273971557617
+alpha: 20, beta: 18, evaporation_rate: 0.1,  best_distance: 8658.787769431783, time: 5.186305284500122
+
+alpha: 20, beta: 19, evaporation_rate: 0.1,  best_distance: 8692.911788826832, time: 5.378072500228882
+alpha: 20, beta: 19, evaporation_rate: 0.1,  best_distance: 8657.732359972844, time: 5.232232332229614
+alpha: 20, beta: 19, evaporation_rate: 0.1,  best_distance: 8750.407083965973, time: 5.141454458236694
+
+alpha: 20, beta: 20, evaporation_rate: 0.1,  best_distance: 8689.553077828394, time: 5.518505573272705
+alpha: 20, beta: 20, evaporation_rate: 0.1,  best_distance: 8669.77318719934, time: 5.154597759246826
+alpha: 20, beta: 20, evaporation_rate: 0.1,  best_distance: 8613.435271043465, time: 5.170387029647827
+
