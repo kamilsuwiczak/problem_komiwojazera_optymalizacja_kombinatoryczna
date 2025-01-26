@@ -6,7 +6,6 @@ def import_data(filepath):
     with open(filepath, "r") as file:
         file.readline()
         point_coordinates = file.readlines()
-        # Converting points to list and to int
         for i in range(len(point_coordinates)):
             point_coordinates[i] = point_coordinates[i].rstrip()
             point_coordinates[i] = point_coordinates[i].split(" ")
@@ -80,32 +79,27 @@ def ant_colony_optimization(points, num_ants, num_iterations, alpha, beta, evapo
 
             path.append(path[0])
             distance = sum(distance_matrix[path[i]][path[i + 1]] for i in range(len(path) - 1))
-            path = two_opt(path, distance_matrix)  # Apply 2-opt improvement
+            path = two_opt(path, distance_matrix) 
             distance = sum(distance_matrix[path[i]][path[i + 1]] for i in range(len(path) - 1))
             all_paths.append(path)
             all_distances.append(distance)
 
-        # Update best path
         for i, distance in enumerate(all_distances):
             if distance < best_distance:
                 best_distance = distance
                 best_path = all_paths[i]
 
-        # Update pheromones
         pheromones *= (1 - evaporation_rate)
         for i, path in enumerate(all_paths):
             for j in range(len(path) - 1):
                 pheromones[path[j]][path[j + 1]] += 1 / all_distances[i]
 
-        # Elitist update for the best path
         best_path_contribution = 1 / best_distance
         for i in range(len(best_path) - 1):
             pheromones[best_path[i]][best_path[i + 1]] += best_path_contribution
 
-        # Dynamic beta adjustment
         beta = initial_beta * (1 - iter_num / num_iterations)
 
-    # Convert best path to 1-indexed for visualization
     for i in range(len(best_path)):
         best_path[i] += 1
 
