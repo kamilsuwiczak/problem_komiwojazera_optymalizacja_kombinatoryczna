@@ -38,7 +38,7 @@ def generate_data(instance_size, filepath):
 
 def main():
     for i in range(1,11):
-        generate_data(i*100,f'''data/dane_{i*100}.txt''')
+        generate_data(i*25,f'''data/dane_{i*25}.txt''')
 
 
 if __name__ == "__main__":
